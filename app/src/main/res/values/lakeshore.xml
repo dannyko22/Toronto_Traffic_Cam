@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lakeshoreparklawn">
+        <item>"43.623016"</item>
+        <item>"-79.481210"</item>
+    </string-array>
+    <string-array name="lakeshoreellis">
+        <item>"43.636420"</item>
+        <item>"-79.465375"</item>
+    </string-array>
+    <string-array name="lakeshorecolborne">
+        <item>"43.637864"</item>
+        <item>"-79.458969"</item>
+    </string-array>
+    <string-array name="lakeshoreparkside">
+        <item>"43.637398"</item>
+        <item>"-79.449496"</item>
+    </string-array>
+    <string-array name="lakeshorejameson">
+        <item>"43.632164"</item>
+        <item>"-79.434765"</item>
+    </string-array>
+    <string-array name="lakeshoredunn">
+        <item>"43.631590"</item>
+        <item>"-79.430838"</item>
+    </string-array>
+    <string-array name="lakeshorebc">
+        <item>"43.631450"</item>
+        <item>"-79.429186"</item>
+    </string-array>
+    <string-array name="lakeshoreontario">
+        <item>"43.630456"</item>
+        <item>"-79.419841"</item>
+    </string-array>
+    <string-array name="lakeshoreontarioplace">
+        <item>"43.632428"</item>
+        <item>"-79.410953"</item>
+    </string-array>
+    <string-array name="lakeshoreremembrance">
+        <item>"43.635734"</item>
+        <item>"-79.403387"</item>
+    </string-array>
+    <string-array name="lakeshorerees">
+        <item>"43.639942"</item>
+        <item>"-79.387049"</item>
+    </string-array>
+    <string-array name="lakeshorebay">
+        <item>"43.642819"</item>
+        <item>"-79.377782"</item>
+    </string-array>
+    <string-array name="lakeshoreyonge">
+        <item>"43.644081"</item>
+        <item>"-79.375695"</item>
+    </string-array>
+    <string-array name="lakeshorejarvis">
+        <item>"43.645521"</item>
+        <item>"-79.369816"</item>
+    </string-array>
+    <string-array name="lakeshoreparliament">
+        <item>"43.647726"</item>
+        <item>"-79.361292"</item>
+    </string-array>
+    <string-array name="lakeshoredonroadway">
+        <item>"43.651089"</item>
+        <item>"-79.347000"</item>
+    </string-array>
+    <string-array name="lakeshoreleslie">
+        <item>"43.659027"</item>
+        <item>"-79.328279"</item>
+    </string-array>
+
+
+
+</resources>

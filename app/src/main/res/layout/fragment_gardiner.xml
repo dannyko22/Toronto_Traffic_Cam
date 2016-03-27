@@ -1,0 +1,350 @@
+<FrameLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:mm="http://millennialmedia.com/android/schema"
+    android:background="#000000">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <!--<com.millennialmedia.android.MMAdView-->
+            <!--android:id="@+id/adView"-->
+            <!--android:layout_width="320dp"-->
+            <!--android:layout_height="50dp"-->
+            <!--android:layout_alignParentTop="true"-->
+            <!--android:layout_centerHorizontal="true"-->
+            <!--mm:width="320"-->
+            <!--mm:height="50"-->
+            <!--mm:apid="152783"-->
+            <!--android:layout_gravity="center_horizontal" />-->
+
+        <FrameLayout
+            android:layout_width="fill_parent"
+            android:layout_height="220dp">
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+
+            <ScrollView
+                android:layout_width="fill_parent"
+                android:layout_height="220dp"
+                android:id="@+id/scrollView"
+                android:layout_weight="0.57"
+                android:fadeScrollbars="false"
+                android:background="@drawable/leftborder">
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="fill_parent"
+                    android:layout_height="200dp"
+                    android:weightSum="1">
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="427"
+                    android:id="@+id/fourtwoseven"
+                    android:clickable="true"
+                    android:onClick="onButtonClickGardiner"
+                    android:textColor="#ffffff" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Kipling"
+                    android:id="@+id/kiplingqew"
+                    android:clickable="true"
+                    android:onClick="onButtonClickGardiner"
+                    android:textColor="#ffffff" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Islington"
+                    android:id="@+id/islingtonqew"
+                    android:clickable="true"
+                    android:onClick="onButtonClickGardiner"
+                    android:textColor="#ffffff" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Royal York"
+                    android:id="@+id/royalyork"
+                    android:clickable="true"
+                    android:onClick="onButtonClickGardiner"
+                    android:textColor="#ffffff" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Grand Ave."
+                    android:id="@+id/grand"
+                    android:clickable="true"
+                    android:onClick="onButtonClickGardiner"
+                    android:textColor="#ffffff" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Parklawn"
+                    android:id="@+id/parklawn"
+                    android:clickable="true"
+                    android:onClick="onButtonClickGardiner"
+                    android:textColor="#ffffff" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Palace Pier"
+                    android:id="@+id/palacepier"
+                    android:clickable="true"
+                    android:onClick="onButtonClickGardiner"
+                    android:textColor="#ffffff" />
+                <Button
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Humber"
+                        android:id="@+id/humber"
+                        android:clickable="true"
+                        android:onClick="onButtonClickGardiner"
+                        android:textColor="#ffffff" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Kingsway"
+                    android:id="@+id/kingsway"
+                    android:clickable="true"
+                    android:onClick="onButtonClickGardiner"
+                    android:textColor="#ffffff" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Ellis"
+                    android:id="@+id/ellis"
+                    android:clickable="true"
+                    android:onClick="onButtonClickGardiner"
+                    android:textColor="#ffffff" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Sunnyside"
+                    android:id="@+id/sunnyside"
+                    android:clickable="true"
+                    android:onClick="onButtonClickGardiner"
+                    android:textColor="#ffffff" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Dowling"
+                    android:id="@+id/dowling"
+                    android:clickable="true"
+                    android:onClick="onButtonClickGardiner"
+                    android:textColor="#ffffff" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Dunn"
+                    android:id="@+id/dunn"
+                    android:clickable="true"
+                    android:onClick="onButtonClickGardiner"
+                    android:textColor="#ffffff" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Dufferin"
+                    android:id="@+id/dufferingardiner"
+                    android:clickable="true"
+                    android:onClick="onButtonClickGardiner"
+                    android:textColor="#ffffff" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Strachan"
+                    android:id="@+id/strachan"
+                    android:clickable="true"
+                    android:onClick="onButtonClickGardiner"
+                    android:textColor="#ffffff" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Bathurst"
+                    android:id="@+id/bathurst"
+                    android:clickable="true"
+                    android:onClick="onButtonClickGardiner"
+                    android:textColor="#ffffff" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Spadina"
+                    android:id="@+id/spadina"
+                    android:clickable="true"
+                    android:onClick="onButtonClickGardiner"
+                    android:textColor="#ffffff" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="East of Spadina"
+                    android:id="@+id/eastspadina"
+                    android:clickable="true"
+                    android:onClick="onButtonClickGardiner"
+                    android:textColor="#ffffff" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Skydome"
+                    android:id="@+id/skydome"
+                    android:clickable="true"
+                    android:onClick="onButtonClickGardiner"
+                    android:textColor="#ffffff" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="York"
+                    android:id="@+id/york"
+                    android:clickable="true"
+                    android:onClick="onButtonClickGardiner"
+                    android:textColor="#ffffff" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Jarvis"
+                    android:id="@+id/jarvis"
+                    android:clickable="true"
+                    android:onClick="onButtonClickGardiner"
+                    android:textColor="#ffffff" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Cherry"
+                    android:id="@+id/cherry"
+                    android:clickable="true"
+                    android:onClick="onButtonClickGardiner"
+                    android:textColor="#ffffff" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="DVP/Gardiner ramp"
+                    android:id="@+id/dvpgardiner"
+                    android:clickable="true"
+                    android:onClick="onButtonClickGardiner"
+                    android:textColor="#ffffff" />
+            </LinearLayout>
+        </ScrollView>
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="150dp"
+                    android:layout_height="220dp"
+                    android:weightSum="1"
+                    android:background="@drawable/border">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Reference Image"
+                        android:id="@+id/textView"
+                        android:gravity="center_horizontal"
+                        android:textColor="#ffffff" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:id="@+id/toptextbox"
+                        android:textColor="#ffffff"
+                        android:textAlignment="center"
+                        android:gravity="center|bottom"
+                        android:layout_gravity="bottom"
+                        android:layout_weight="0.015"/>
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/topView"
+                        android:layout_weight="0.5" />
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:id="@+id/bottomtextbox"
+                        android:textColor="#ffffff"
+                        android:textAlignment="center"
+                        android:gravity="center"
+                        android:layout_gravity="bottom" />
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/bottomView"
+                        android:layout_weight="0.50"
+                        android:layout_marginBottom="3dp" />
+                </LinearLayout>
+            </LinearLayout>
+
+
+
+        </FrameLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="#000000"
+            android:weightSum="1"
+            android:gravity="bottom">
+
+            <TabHost
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:id="@+id/tabHost">
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:orientation="vertical">
+
+                    <TabWidget
+                        android:id="@android:id/tabs"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:background="#ffffff"></TabWidget>
+
+                    <FrameLayout
+                        android:id="@android:id/tabcontent"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent">
+
+                        <LinearLayout
+                            android:id="@+id/cameraTab"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent">
+
+                            <ImageView
+                                android:layout_width="fill_parent"
+                                android:layout_height="fill_parent"
+                                android:id="@+id/trafficView" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/mapTab"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent">
+                            <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+                                xmlns:map="http://schemas.android.com/apk/res-auto"
+                                android:id="@+id/mapView"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                map:cameraZoom="14"
+                                map:cameraTilt="45"
+                                android:name="com.google.android.gms.maps.MapFragment"/>
+
+
+                        </LinearLayout>
+
+                    </FrameLayout>
+                </LinearLayout>
+            </TabHost>
+
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hwy401410">
+        <item>"43.636324"</item>
+        <item>"-79.666722"</item>
+    </string-array>
+    
+    <string-array name="hwy401tomken">
+        <item>"43.642023"</item>
+        <item>"-79.653093"</item>
+    </string-array>
+
+    <string-array name="hwy401dixie">
+        <item>"43.648218"</item>
+        <item>"-79.637235"</item>
+    </string-array>
+    <string-array name="hwy401ecreek">
+        <item>"43.65255"</item>
+        <item>"-79.62715"</item>
+    </string-array>
+    <string-array name="hwy401transfer">
+        <item>"43.657766"</item>
+        <item>"-79.617344"</item>
+    </string-array>
+    <string-array name="hwy401pearson">
+        <item>"43.664814"</item>
+        <item>"-79.60153"</item>
+    </string-array>
+    <string-array name="hwy401renforth">
+        <item>"43.668524"</item>
+        <item>"-79.591531"</item>
+    </string-array>
+    <string-array name="hwy401carlingview">
+        <item>"43.671783"</item>
+        <item>"-79.582561"</item>
+    </string-array>
+    <string-array name="hwy401hwy27">
+        <item>"43.677463"</item>
+        <item>"-79.577304"</item>
+    </string-array>
+    <string-array name="hwy401martingrove">
+        <item>"43.690343"</item>
+        <item>"-79.570223"</item>
+    </string-array>
+    <string-array name="hwy401kipling">
+        <item>"43.700442"</item>
+        <item>"-79.56164"</item>
+    </string-array>
+    <string-array name="hwy401409">
+        <item>"43.7047459"</item>
+        <item>"-79.5645057"</item>
+    </string-array>
+    <string-array name="hwy401islington">
+        <item>"43.708679"</item>
+        <item>"-79.552606"</item>
+    </string-array>
+    <string-array name="hwy401weston">
+        <item>"43.713239"</item>
+        <item>"-79.53647"</item>
+    </string-array>
+    <string-array name="hwy401jane">
+        <item>"43.717613"</item>
+        <item>"-79.507824"</item>
+    </string-array>
+    <string-array name="hwy401keele">
+        <item>"43.72242"</item>
+        <item>"-79.481581"</item>
+    </string-array>
+    <string-array name="hwy401caledonia">
+        <item>"43.725351"</item>
+        <item>"-79.470402"</item>
+    </string-array>
+    <string-array name="hwy401dufferin">
+        <item>"43.727894"</item>
+        <item>"-79.457957"</item>
+    </string-array>
+    <string-array name="hwy401bathurst">
+        <item>"43.736096"</item>
+        <item>"-79.433645"</item>
+    </string-array>
+    <string-array name="hwy401avenue">
+        <item>"43.742158"</item>
+        <item>"-79.423195"</item>
+    </string-array>
+    <string-array name="hwy401hoggshollow">
+        <item>"43.747026"</item>
+        <item>"-79.416479"</item>
+    </string-array>
+    <string-array name="hwy401yonge">
+        <item>"43.753257"</item>
+        <item>"-79.40854"</item>
+    </string-array>
+    <string-array name="hwy401eyonge">
+        <item>"43.758619"</item>
+        <item>"-79.399828"</item>
+    </string-array>
+    <string-array name="hwy401bayview">
+        <item>"43.763051"</item>
+        <item>"-79.387382"</item>
+    </string-array>
+    <string-array name="hwy401ebayview">
+        <item>"43.765453"</item>
+        <item>"-79.374722"</item>
+    </string-array>
+    <string-array name="hwy401leslie">
+        <item>"43.766104"</item>
+        <item>"-79.363328"</item>
+    </string-array>
+    <string-array name="hwy401donmills">
+        <item>"43.766662"</item>
+        <item>"-79.347214"</item>
+    </string-array>
+    <string-array name="hwy401edvp">
+        <item>"43.767297"</item>
+        <item>"-79.334983"</item>
+    </string-array>
+    <string-array name="hwy401vicpark">
+        <item>"43.768258"</item>
+        <item>"-79.319705"</item>
+    </string-array>
+    <string-array name="hwy401warden">
+        <item>"43.770381"</item>
+        <item>"-79.304019"</item>
+    </string-array>
+    <string-array name="hwy401birchmount">
+        <item>"43.772659"</item>
+        <item>"-79.294342"</item>
+    </string-array>
+    <string-array name="hwy401kennedy">
+        <item>"43.774797"</item>
+        <item>"-79.284493"</item>
+    </string-array>
+    <string-array name="hwy401midland">
+        <item>"43.777229"</item>
+        <item>"-79.274579"</item>
+    </string-array>
+    <string-array name="hwy401brimley">
+        <item>"43.779305"</item>
+        <item>"-79.264666"</item>
+    </string-array>
+    <string-array name="hwy401mccowan">
+        <item>"43.781196"</item>
+        <item>"-79.25486"</item>
+    </string-array>
+    <string-array name="hwy401bellamy">
+        <item>"43.783008"</item>
+        <item>"-79.245182"</item>
+    </string-array>
+    <string-array name="hwy401markham">
+        <item>"43.785549"</item>
+        <item>"-79.235183"</item>
+    </string-array>
+    <string-array name="hwy401neilson">
+        <item>"43.793526"</item>
+        <item>"-79.215657"</item>
+    </string-array>
+    <string-array name="hwy401morningside">
+        <item>"43.796531"</item>
+        <item>"-79.197031"</item>
+    </string-array>
+    <string-array name="hwy401meadowvale1">
+        <item>"43.799474"</item>
+        <item>"-79.166261"</item>
+    </string-array>
+    <string-array name="hwy401portunion">
+        <item>"43.7976"</item>
+        <item>"-79.144503"</item>
+    </string-array>
+    <string-array name="hwy401whitesroadnorth">
+        <item>"43.816523"</item>
+        <item>"-79.114634"</item>
+    </string-array>
+    <string-array name="hwy401liverpool">
+        <item>"43.830657"</item>
+        <item>"-79.088627"</item>
+    </string-array>
+    <string-array name="hwy401brock">
+        <item>"43.839"</item>
+        <item>"-79.070324"</item>
+    </string-array>
+    <string-array name="hwy401westney">
+        <item>"43.848966"</item>
+        <item>"-79.040734"</item>
+    </string-array>
+    <string-array name="hwy401harwood">
+        <item>"43.853036"</item>
+        <item>"-79.022262"</item>
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

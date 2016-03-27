@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Toronto Traffic</string>
+    <string name="action_settings">About Me</string>
+    <string name="title_activity_four__o__one">401 Highway</string>
+    <string name="title_activity_dvp">404/Don Valley Parkway</string>
+    <string name="title_activity_gardiner">Gardiner Expy</string>
+    <string name="title_activity_qew">QEW</string>
+    <string name="title_activity_aboutme">About Me</string>
+    <string name="title_activity_fourhundred">400 Highway</string>
+    <string name="title_activity_hwy_seven">Highway 7</string>
+    <string name="title_activity_four_two_seven">427 Highway</string>
+    <string name="title_activity_mapview">Traffic Map</string>
+    <string name="title_activity_four__o__three">403 Highway</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_lakeshore">Lakeshore Blvd</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6778581968244410/2687499686</string>
+
+</resources>

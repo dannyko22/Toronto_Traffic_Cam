@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hwygardiner427">
+        <item>43.614609</item>
+        <item>-79.546945</item>
+    </string-array>
+    <string-array name="hwygardinerkipling">
+        <item>43.618027</item>
+        <item>-79.525745</item>
+    </string-array>
+    <string-array name="hwygardinerislington">
+        <item>43.62045</item>
+        <item>-79.513128</item>
+    </string-array>
+    <string-array name="hwygardinerroyalyork">
+        <item>43.622998</item>
+        <item>-79.501026</item>
+    </string-array>
+    <string-array name="hwygardinergrand">
+        <item>43.624768</item>
+        <item>-79.493172</item>
+    </string-array>
+    <string-array name="hwygardinerparklawn">
+        <item>43.628558</item>
+        <item>-79.48004</item>
+    </string-array>
+    <string-array name="hwygardinerpalacepier">
+        <item>43.630453</item>
+        <item>-79.477336</item>
+    </string-array>
+    <string-array name="hwygardinerhumber">
+        <item>43.630460</item>
+        <item>-79.475875</item>
+    </string-array>
+    <string-array name="hwygardinerkingsway">
+        <item>43.635081</item>
+        <item>-79.47017</item>
+    </string-array>
+    <string-array name="hwygardinerellis">
+        <item>43.638125</item>
+        <item>-79.462531</item>
+    </string-array>
+    <string-array name="hwygardinersunnyside">
+        <item>43.638467</item>
+        <item>-79.449956</item>
+    </string-array>
+    <string-array name="hwygardinerdowling">
+        <item>43.634258</item>
+        <item>-79.437743</item>
+    </string-array>
+    <string-array name="hwygardinerdunn">
+        <item>43.632457</item>
+        <item>-79.430362</item>
+    </string-array>
+    <string-array name="hwygardinerdufferin">
+        <item>43.634569</item>
+        <item>-79.422573</item>
+    </string-array>
+    <string-array name="hwygardinerstrachan">
+        <item>43.63755</item>
+        <item>-79.410449</item>
+    </string-array>
+    <string-array name="hwygardinerbathurst">
+        <item>43.637923</item>
+        <item>-79.400235</item>
+    </string-array>
+    <string-array name="hwygardinerspadina">
+        <item>43.638451</item>
+        <item>-79.394356</item>
+    </string-array>
+    <string-array name="hwygardinerespadina">
+        <item>43.638824</item>
+        <item>-79.391609</item>
+    </string-array>
+    <string-array name="hwygardinerskydome">
+        <item>43.639662</item>
+        <item>-79.386975</item>
+    </string-array>
+    <string-array name="hwygardineryork">
+        <item>43.641666</item>
+        <item>-79.381052</item>
+    </string-array>
+    <string-array name="hwygardinerjarvis">
+        <item>43.645936</item>
+        <item>-79.36983</item>
+    </string-array>
+    <string-array name="hwygardinercherry">
+        <item>43.648249</item>
+        <item>-79.360045</item>
+    </string-array>
+    <string-array name="hwygardinerdvp">
+        <item>43.649755</item>
+        <item>-79.350218</item>
+    </string-array>
+    
+    
+    
+</resources>

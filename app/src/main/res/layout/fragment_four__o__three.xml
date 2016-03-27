@@ -1,0 +1,246 @@
+<FrameLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:mm="http://millennialmedia.com/android/schema"
+    android:background="#000000">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <!--<com.millennialmedia.android.MMAdView-->
+            <!--android:id="@+id/adView"-->
+            <!--android:layout_width="320dp"-->
+            <!--android:layout_height="50dp"-->
+            <!--android:layout_alignParentTop="true"-->
+            <!--android:layout_centerHorizontal="true"-->
+            <!--mm:width="320"-->
+            <!--mm:height="50"-->
+            <!--mm:apid="152783"-->
+            <!--android:layout_gravity="center_horizontal" />-->
+
+        <FrameLayout
+            android:layout_width="fill_parent"
+            android:layout_height="220dp">
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+
+                <ScrollView
+                    android:layout_width="fill_parent"
+                    android:layout_height="220dp"
+                    android:id="@+id/scrollView"
+                    android:layout_weight="0.57"
+                    android:fadeScrollbars="false"
+                    android:background="@drawable/leftborder">
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="fill_parent"
+                        android:layout_height="200dp"
+                        android:weightSum="1">
+                        <Button
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Dundas St"
+                            android:id="@+id/four03dundas"
+                            android:clickable="true"
+                            android:onClick="onButtonClick403"
+                            android:textColor="#ffffff" />
+                        <Button
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Winston Churchill Blvd"
+                            android:id="@+id/four03winston"
+                            android:clickable="true"
+                            android:onClick="onButtonClick403"
+                            android:textColor="#ffffff" />
+                        <Button
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Erin Mills Pkwy"
+                            android:id="@+id/four03erinmills"
+                            android:clickable="true"
+                            android:onClick="onButtonClick403"
+                            android:textColor="#ffffff" />
+                        <Button
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Creditview Rd"
+                            android:id="@+id/four03creditview"
+                            android:clickable="true"
+                            android:onClick="onButtonClick403"
+                            android:textColor="#ffffff" />
+                        <Button
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Mavis Rd"
+                            android:id="@+id/four03mavis"
+                            android:clickable="true"
+                            android:onClick="onButtonClick403"
+                            android:textColor="#ffffff" />
+                        <Button
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Hurontario"
+                            android:id="@+id/four03hurontario"
+                            android:clickable="true"
+                            android:onClick="onButtonClick403"
+                            android:textColor="#ffffff" />
+                        <Button
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Central Pkwy East"
+                            android:id="@+id/four03centralpkwy"
+                            android:clickable="true"
+                            android:onClick="onButtonClick403"
+                            android:textColor="#ffffff" />
+                        <Button
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Eglinton"
+                            android:id="@+id/four03eglinton"
+                            android:clickable="true"
+                            android:onClick="onButtonClick403"
+                            android:textColor="#ffffff" />
+                        <Button
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Matheson"
+                            android:id="@+id/four03matheson"
+                            android:clickable="true"
+                            android:onClick="onButtonClick403"
+                            android:textColor="#ffffff" />
+                    </LinearLayout>
+                </ScrollView>
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="150dp"
+                    android:layout_height="220dp"
+                    android:weightSum="1"
+                    android:background="@drawable/border">
+
+                    <TextView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Reference Image"
+                        android:id="@+id/textView"
+                        android:textColor="#ffffff"
+                        android:gravity="center" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:id="@+id/toptextbox"
+                        android:textColor="#ffffff"
+                        android:textAlignment="center"
+                        android:gravity="center|bottom"
+                        android:layout_gravity="bottom"
+                        android:layout_weight="0.015"/>
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/topView"
+                        android:layout_weight="0.5" />
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:id="@+id/bottomtextbox"
+                        android:textColor="#ffffff"
+                        android:textAlignment="center"
+                        android:gravity="center"
+                        android:layout_gravity="bottom" />
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/bottomView"
+                        android:layout_weight="0.50"
+                        android:layout_marginBottom="3dp" />
+                </LinearLayout>
+            </LinearLayout>
+
+        </FrameLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="#000000"
+            android:weightSum="1"
+            android:gravity="bottom"
+            android:layout_gravity="bottom">
+
+            <TabHost
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:id="@+id/tabHost">
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:orientation="vertical">
+
+                    <TabWidget
+                        android:id="@android:id/tabs"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:background="#ffffff"></TabWidget>
+
+                    <FrameLayout
+                        android:id="@android:id/tabcontent"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent">
+
+                        <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:orientation="vertical"
+                            android:id="@+id/cameraTab">
+
+                            <ImageView
+                                android:layout_width="fill_parent"
+                                android:layout_height="fill_parent"
+                                android:id="@+id/trafficView"
+                                />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/mapTab"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:orientation="vertical">
+
+                            <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+                                xmlns:map="http://schemas.android.com/apk/res-auto"
+                                android:id="@+id/mapView"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                map:cameraZoom="14"
+                                map:cameraTilt="45"
+                                android:name="com.google.android.gms.maps.MapFragment"/>
+
+
+                        </LinearLayout>
+
+                    </FrameLayout>
+                </LinearLayout>
+            </TabHost>
+
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</FrameLayout>

@@ -1,0 +1,382 @@
+<FrameLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:mm="http://millennialmedia.com/android/schema"
+    android:background="#000000">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+
+
+        <FrameLayout
+            android:layout_width="fill_parent"
+            android:layout_height="220dp">
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+
+                <ScrollView
+                    android:layout_width="fill_parent"
+                    android:layout_height="220dp"
+                    android:id="@+id/scrollView"
+                    android:layout_weight="0.57"
+                    android:fadeScrollbars="false"
+                    android:background="@drawable/leftborder">
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="fill_parent"
+                        android:layout_height="200dp"
+                        android:weightSum="1">
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="16th Ave"
+                    android:id="@+id/ave16404"
+                    android:clickable="true"
+                    android:onClick="onButtonClickDVP"
+                    android:textColor="#ffffff" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="North of Hwy 7"
+                    android:id="@+id/hwy7404"
+                    android:clickable="true"
+                    android:onClick="onButtonClickDVP"
+                    android:textColor="#ffffff" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="North of 407"
+                    android:id="@+id/nhwy407404"
+                    android:clickable="true"
+                    android:onClick="onButtonClickDVP"
+                    android:textColor="#ffffff" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="South of 407"
+                    android:id="@+id/shwy407404"
+                    android:clickable="true"
+                    android:onClick="onButtonClickDVP"
+                    android:textColor="#ffffff" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="John"
+                    android:id="@+id/john404"
+                    android:clickable="true"
+                    android:onClick="onButtonClickDVP"
+                    android:textColor="#ffffff" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="North of Steeles"
+                    android:id="@+id/nsteeles404"
+                    android:clickable="true"
+                    android:onClick="onButtonClickDVP"
+                    android:textColor="#ffffff" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Steeles"
+                    android:id="@+id/steeles404"
+                    android:clickable="true"
+                    android:onClick="onButtonClickDVP"
+                    android:textColor="#ffffff" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="South of Steeles"
+                    android:id="@+id/ssteeles404"
+                    android:clickable="true"
+                    android:onClick="onButtonClickDVP"
+                    android:textColor="#ffffff" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Finch"
+                    android:id="@+id/dvpfinch"
+                    android:clickable="true"
+                    android:onClick="onButtonClickDVP"
+                    android:textColor="#ffffff" />
+
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Van Horne"
+                    android:id="@+id/dvpvanhorne"
+                    android:textColor="#ffffff"
+                    android:onClick="onButtonClickDVP" />
+
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Sheppard HOV"
+                    android:id="@+id/sheppardhov"
+                    android:textColor="#ffffff"
+                    android:onClick="onButtonClickDVP" />
+
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="401"
+                    android:id="@+id/fouroone"
+                    android:textColor="#ffffff"
+                    android:onClick="onButtonClickDVP" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="York Mills"
+                    android:id="@+id/yorkmills"
+                    android:textColor="#ffffff"
+                    android:onClick="onButtonClickDVP" />
+
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Three Valleys Dr"
+                    android:id="@+id/threevalleys"
+                    android:textColor="#ffffff"
+                    android:onClick="onButtonClickDVP" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Lawrence"
+                    android:id="@+id/lawrence"
+                    android:textColor="#ffffff"
+                    android:onClick="onButtonClickDVP" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Twin Tunnels"
+                    android:id="@+id/twintunnels"
+                    android:textColor="#ffffff"
+                    android:onClick="onButtonClickDVP" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Wynford Dr"
+                    android:id="@+id/wynford"
+                    android:textColor="#ffffff"
+                    android:onClick="onButtonClickDVP" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Eglinton"
+                    android:id="@+id/eglinton"
+                    android:textColor="#ffffff"
+                    android:onClick="onButtonClickDVP" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="St Dennis Dr"
+                    android:id="@+id/stdennis"
+                    android:textColor="#ffffff"
+                    android:onClick="onButtonClickDVP" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Spanbridge"
+                    android:id="@+id/spanbridge"
+                    android:textColor="#ffffff"
+                    android:onClick="onButtonClickDVP" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="CN Railway"
+                    android:id="@+id/cnrailway"
+                    android:textColor="#ffffff"
+                    android:onClick="onButtonClickDVP" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Don Mills"
+                    android:id="@+id/donmillsdvp"
+                    android:textColor="#ffffff"
+                    android:onClick="onButtonClickDVP" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Millwood"
+                    android:id="@+id/millwood"
+                    android:textColor="#ffffff"
+                    android:onClick="onButtonClickDVP" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Beechwood"
+                    android:id="@+id/beechwood"
+                    android:textColor="#ffffff"
+                    android:onClick="onButtonClickDVP" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Bloor Ramp"
+                    android:id="@+id/bloorramp"
+                    android:textColor="#ffffff"
+                    android:onClick="onButtonClickDVP" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Danforth"
+                    android:id="@+id/danforth"
+                    android:textColor="#ffffff"
+                    android:onClick="onButtonClickDVP" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Dundas"
+                    android:id="@+id/dundas"
+                    android:textColor="#ffffff"
+                    android:onClick="onButtonClickDVP" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Eastern"
+                    android:id="@+id/eastern"
+                    android:textColor="#ffffff"
+                    android:onClick="onButtonClickDVP" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Gardiner Ramp"
+                    android:id="@+id/gardinerramp"
+                    android:textColor="#ffffff"
+                    android:onClick="onButtonClickDVP" />
+
+            </LinearLayout>
+        </ScrollView>
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="150dp"
+                    android:layout_height="220dp"
+                    android:weightSum="1"
+                    android:background="@drawable/border">
+
+                    <TextView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Reference Image"
+                        android:id="@+id/textView"
+                        android:textColor="#ffffff"
+                        android:layout_gravity="center_horizontal"
+                        android:gravity="center_horizontal" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:id="@+id/toptextbox"
+                        android:textColor="#ffffff"
+                        android:textAlignment="center"
+                        android:gravity="center|bottom"
+                        android:layout_gravity="bottom"
+                        android:layout_weight="0.015"/>
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/topView"
+                        android:layout_weight="0.5" />
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:id="@+id/bottomtextbox"
+                        android:textColor="#ffffff"
+                        android:textAlignment="center"
+                        android:gravity="center"
+                        android:layout_gravity="bottom" />
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/bottomView"
+                        android:layout_weight="0.50"
+                        android:layout_marginBottom="3dp" />
+                </LinearLayout>
+
+
+
+
+
+
+            </LinearLayout>
+
+        </FrameLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="#000000"
+            android:weightSum="1"
+            android:gravity="bottom"
+            android:layout_gravity="bottom">
+
+            <TabHost
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:id="@+id/tabHost">
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:orientation="vertical">
+
+                    <TabWidget
+                        android:id="@android:id/tabs"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:background="#ffffff"></TabWidget>
+
+                    <FrameLayout
+                        android:id="@android:id/tabcontent"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent">
+
+                        <LinearLayout
+                            android:id="@+id/cameraTab"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:layout_width="fill_parent"
+                                android:layout_height="fill_parent"
+                                android:id="@+id/trafficView" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/mapTab"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:orientation="vertical">
+
+                            <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+                                xmlns:map="http://schemas.android.com/apk/res-auto"
+                                android:id="@+id/mapView"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                map:cameraZoom="14"
+                                map:cameraTilt="45"
+                                android:name="com.google.android.gms.maps.MapFragment"/>
+
+
+
+                        </LinearLayout>
+
+                    </FrameLayout>
+                </LinearLayout>
+            </TabHost>
+
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>

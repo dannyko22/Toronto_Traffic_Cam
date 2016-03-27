@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hwy404ave16">
+        <item>"43.8652578"</item>
+        <item>"-79.3773937"</item>
+    </string-array>
+    <string-array name="hwy404hwy7">
+        <item>"43.8524028"</item>
+        <item>"-79.3741697"</item>
+    </string-array>
+    <string-array name="hwy404nhwy407">
+        <item>"43.8417678"</item>
+        <item>"-79.3711677"</item>
+    </string-array>
+    <string-array name="hwy404shwy407">
+        <item>"43.8298618"</item>
+        <item>"-79.3666227"</item>
+    </string-array>
+    <string-array name="hwy404john">
+        <item>"43.8283988"</item>
+        <item>"-79.3660587"</item>
+    </string-array>
+    <string-array name="hwy404nsteeles">
+        <item>"43.8217808"</item>
+        <item>"-79.3633227"</item>
+    </string-array>
+    <string-array name="hwy404steeles">
+        <item>"43.8131729"</item>
+        <item>"-79.3539777"</item>
+    </string-array>
+    <string-array name="hwy404ssteeles">
+        <item>"43.8060189"</item>
+        <item>"-79.3479267"</item>
+    </string-array>
+    <string-array name="hwydvpfinch">
+        <item>"43.7951109"</item>
+        <item>"-79.3457087"</item>
+    </string-array>
+    <string-array name="hwydvpvanhorne">
+        <item>"43.7865839"</item>
+        <item>"-79.3437987"</item>
+    </string-array>
+    <string-array name="hwydvpsheppardhov">
+        <item>"43.7759609"</item>
+        <item>"-79.3418407"</item>
+    </string-array>
+    <string-array name="hwydvp401">
+        <item>"43.770443"</item>
+        <item>"-79.337347"</item>
+    </string-array>
+    <string-array name="hwydvpyorkmills">
+        <item>"43.758356"</item>
+        <item>"-79.335759"</item>
+    </string-array>
+    <string-array name="hwydvp3valleys">
+        <item>"43.749428"</item>
+        <item>"-79.333527"</item>
+    </string-array>
+    <string-array name="hwydvplawrence">
+        <item>"43.739879"</item>
+        <item>"-79.332154"</item>
+    </string-array>
+    <string-array name="hwydvptwintunnels">
+        <item>"43.730887"</item>
+        <item>"-79.330952"</item>
+    </string-array>
+    <string-array name="hwydvpwynford">
+        <item>"43.726731"</item>
+        <item>"-79.33048"</item>
+    </string-array>
+    <string-array name="hwydvpeglinton">
+        <item>"43.723413"</item>
+        <item>"-79.330308"</item>
+    </string-array>
+    <string-array name="hwydvpstdennis">
+        <item>"43.718885"</item>
+        <item>"-79.328377"</item>
+    </string-array>
+    <string-array name="hwydvpspanbridge">
+        <item>"43.712929"</item>
+        <item>"-79.325631"</item>
+    </string-array>
+    <string-array name="hwydvpcnrailway">
+        <item>"43.706446"</item>
+        <item>"-79.331682"</item>
+    </string-array>
+    <string-array name="hwydvpdonmills">
+        <item>"43.700241"</item>
+        <item>"-79.33769"</item>
+    </string-array>
+    <string-array name="hwydvpmillwood">
+        <item>"43.697945"</item>
+        <item>"-79.349792"</item>
+    </string-array>
+    <string-array name="hwydvpbeechwood">
+        <item>"43.693197"</item>
+        <item>"-79.357259"</item>
+    </string-array>
+    <string-array name="hwydvpbloorramp">
+        <item>"43.681622"</item>
+        <item>"-79.362624"</item>
+    </string-array>
+    <string-array name="hwydvpdanforth">
+        <item>"43.672217"</item>
+        <item>"-79.359534"</item>
+    </string-array>
+    <string-array name="hwydvpdundas">
+        <item>"43.66188"</item>
+        <item>"-79.355071"</item>
+    </string-array>
+    <string-array name="hwydvpeastern">
+        <item>"43.656695"</item>
+        <item>"-79.35241"</item>
+    </string-array>
+    <string-array name="hwydvpgardiner">
+        <item>"43.649895"</item>
+        <item>"-79.349835"</item>
+    </string-array>
+
+</resources>

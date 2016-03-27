@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hwy427rathburn">
+        <item>"43.6542249"</item>
+        <item>"-79.5695207"</item>
+    </string-array>
+    <string-array name="hwy427burnhamthorpe">
+        <item>"43.6455939"</item>
+        <item>"-79.5655897"</item>
+    </string-array>
+    <string-array name="hwy427QEW">
+        <item>"43.6162369"</item>
+        <item>"-79.5539907"</item>
+    </string-array>
+
+</resources>

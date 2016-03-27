@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.torontotraffic.app" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyCXqCj-gUC6JZxZep_XP7SYCsTHb1mS1dU" />
+
+        <activity android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent" >
+        </activity>
+        <activity
+            android:name="com.torontotraffic.app.MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="nosensor" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.torontotraffic.app.Four_O_One"
+            android:label="@string/title_activity_four__o__one"
+            android:screenOrientation="nosensor" >
+        </activity>
+        <activity
+            android:name="com.torontotraffic.app.dvp"
+            android:label="@string/title_activity_dvp"
+            android:screenOrientation="nosensor" >
+            <intent-filter>
+                <action android:name="com.example.app.dvp" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.torontotraffic.app.Gardiner"
+            android:label="@string/title_activity_gardiner"
+            android:screenOrientation="nosensor" >
+        </activity>
+        <activity
+            android:name="com.torontotraffic.app.QEW"
+            android:label="@string/title_activity_qew"
+            android:screenOrientation="nosensor" >
+        </activity>
+        <activity
+            android:name="com.torontotraffic.app.aboutme"
+            android:label="@string/title_activity_aboutme"
+            android:screenOrientation="nosensor" >
+        </activity>
+        <activity
+            android:name="com.torontotraffic.app.fourhundred"
+            android:label="@string/title_activity_fourhundred"
+            android:screenOrientation="nosensor" >
+        </activity>
+        <activity
+            android:name="com.torontotraffic.app.HwySeven"
+            android:label="@string/title_activity_hwy_seven"
+            android:screenOrientation="nosensor" >
+        </activity>
+        <activity
+            android:name="com.torontotraffic.app.mapview"
+            android:label="@string/title_activity_mapview"
+            android:screenOrientation="nosensor" >
+        </activity>
+        <activity
+            android:name="com.torontotraffic.app.Four_O_Three"
+            android:label="@string/title_activity_four__o__three"
+            android:screenOrientation="nosensor" >
+        </activity>
+        <activity
+            android:name="com.torontotraffic.app.Four_two_seven"
+            android:label="@string/title_activity_four_two_seven"
+            android:screenOrientation="nosensor" >
+        </activity>
+        <activity
+            android:name="com.torontotraffic.app.lakeshore"
+            android:label="@string/title_activity_lakeshore"
+            android:screenOrientation="nosensor" >
+        </activity>
+    </application>
+
+    <!-- Internet Permissions -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+
+    <!-- Permission to write to external storage -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+</manifest>

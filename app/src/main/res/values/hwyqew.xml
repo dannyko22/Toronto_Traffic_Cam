@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hwyqewemall">
+        <item>"43.614609"</item>
+        <item>"-79.545228"</item>
+    </string-array>
+    <string-array name="hwyqewwmall">
+        <item>"43.607152"</item>
+        <item>"-79.557374"</item>
+    </string-array>
+    <string-array name="hwyqewdixie">
+        <item>"43.597922"</item>
+        <item>"-79.567544"</item>
+    </string-array>
+    <string-array name="hwyqewcawthra">
+        <item>"43.583655"</item>
+        <item>"-79.583123"</item>
+    </string-array>
+    <string-array name="hwyqewhurontario">
+        <item>"43.568203"</item>
+        <item>"-79.599946"</item>
+    </string-array>
+    <string-array name="hwyqewmississaugard">
+        <item>"43.552218"</item>
+        <item>"-79.613764"</item>
+    </string-array>
+    <string-array name="hwyqewsouthdown">
+        <item>"43.524406"</item>
+        <item>"-79.647753"</item>
+    </string-array>
+    <string-array name="hwyqewwinstonchurchill">
+        <item>"43.50981"</item>
+        <item>"-79.663632"</item>
+    </string-array>
+    <string-array name="hwyqewford">
+        <item>"43.494744"</item>
+        <item>"-79.673502"</item>
+    </string-array>
+    <string-array name="hwyqewtrafalgar">
+        <item>"43.461454"</item>
+        <item>"-79.68363"</item>
+    </string-array>
+    <string-array name="hwyqewdorval">
+        <item>"43.446532"</item>
+        <item>"-79.70011"</item>
+    </string-array>
+    <string-array name="hwyqewfourthline">
+        <item>"43.438649"</item>
+        <item>"-79.708993"</item>
+    </string-array>
+    <string-array name="hwyqewthirdline">
+        <item>"43.423908"</item>
+        <item>"-79.725387"</item>
+    </string-array>
+    <string-array name="hwyqewbronte">
+        <item>"43.410348"</item>
+        <item>"-79.740064"</item>
+    </string-array>
+    <string-array name="hwyqewburloak">
+        <item>"43.395381"</item>
+        <item>"-79.756587"</item>
+    </string-array>
+    <string-array name="hwyqewappleby">
+        <item>"43.381066"</item>
+        <item>"-79.771993"</item>
+    </string-array>
+    <string-array name="hwyqewwalker">
+        <item>"43.366498"</item>
+        <item>"-79.787915"</item>
+    </string-array>
+    <string-array name="hwyqewguelph">
+        <item>"43.352145"</item>
+        <item>"-79.803751"</item>
+    </string-array>
+    <string-array name="hwyqewebrant">
+        <item>"43.342627"</item>
+        <item>"-79.820659"</item>
+    </string-array>
+    <string-array name="hwyqewwbrant">
+        <item>"43.339475"</item>
+        <item>"-79.825294"</item>
+    </string-array>
+    <string-array name="hwyqewfairview">
+        <item>"43.327644"</item>
+        <item>"-79.825466"</item>
+    </string-array>
+    <string-array name="hwyqewlakeshore">
+        <item>"43.316436"</item>
+        <item>"-79.809287"</item>
+    </string-array>
+    <string-array name="hwyqewburlingtonskyway">
+        <item>"43.301446"</item>
+        <item>"-79.798515"</item>
+    </string-array>
+    <string-array name="hwyqewwoodword">
+        <item>"43.263769"</item>
+        <item>"-79.772594"</item>
+    </string-array>
+    <string-array name="hwyqewburlingtonqew">
+        <item>"43.258393"</item>
+        <item>"-79.767659"</item>
+    </string-array>
+    <string-array name="hwyqewredhill">
+        <item>"43.24961"</item>
+        <item>"-79.76311"</item>
+    </string-array>
+    <string-array name="hwyqewcentennial">
+        <item>"43.246328"</item>
+        <item>"-79.757059"</item>
+    </string-array>
+    <string-array name="hwyqewseventh">
+        <item>"43.179614"</item>
+        <item>"-79.309108"</item>
+    </string-array>
+    <string-array name="hwyqewontariost">
+        <item>"43.179989"</item>
+        <item>"-79.26718"</item>
+    </string-array>
+    <string-array name="hwyqewniagarast">
+        <item>"43.173292"</item>
+        <item>"-79.231732"</item>
+    </string-array>
+    <string-array name="hwyqewbunting">
+        <item>"43.168096"</item>
+        <item>"-79.209974"</item>
+    </string-array>
+    <string-array name="hwyqewglendale">
+        <item>"43.157328"</item>
+        <item>"-79.164569"</item>
+    </string-array>
+    <string-array name="hwyqewmountainrd">
+        <item>"43.134408"</item>
+        <item>"-79.130194"</item>
+    </string-array>
+    <string-array name="hwyqewbowen">
+        <item>"42.933679"</item>
+        <item>"-78.983467"</item>
+    </string-array>
+    <string-array name="hwyqewthompson">
+        <item>"42.911743"</item>
+        <item>"-78.940637"</item>
+    </string-array>
+
+</resources>

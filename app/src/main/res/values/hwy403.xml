@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hwy403dundas">
+        <item>"43.512121"</item>
+        <item>"-79.693177"</item>
+    </string-array>
+    <string-array name="hwy403winston">
+        <item>"43.543236"</item>
+        <item>"-79.709442"</item>
+    </string-array>
+    <string-array name="hwy403erinmills">
+        <item>"43.554060"</item>
+        <item>"-79.696524"</item>
+    </string-array>
+    <string-array name="hwy403creditview">
+        <item>"43.571599"</item>
+        <item>"-79.674423"</item>
+    </string-array>
+    <string-array name="hwy403mavis">
+        <item>"43.585900"</item>
+        <item>"-79.660389"</item>
+    </string-array>
+    <string-array name="hwy403hurontario">
+        <item>"43.600757"</item>
+        <item>"-79.644511"</item>
+    </string-array>
+    <string-array name="hwy403centralpwy">
+        <item>"43.608029"</item>
+        <item>"-79.636700"</item>
+    </string-array>
+    <string-array name="hwy403eglinton">
+        <item>"43.621669"</item>
+        <item>"-79.636357"</item>
+    </string-array>
+    <string-array name="hwy403matheson">
+        <item>"43.630025"</item>
+        <item>"-79.647515"</item>
+    </string-array>
+
+</resources>

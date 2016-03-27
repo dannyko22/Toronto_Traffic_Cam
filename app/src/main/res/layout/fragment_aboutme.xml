@@ -1,0 +1,53 @@
+
+<FrameLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/aboutmelayout"
+    android:background="#000000"
+    android:foregroundGravity="center|center_vertical|center_horizontal">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#ffffff"
+        android:gravity="center|center_vertical|center_horizontal"
+        android:layout_gravity="center_vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:text="\nChartered Professional Accountant (CPA) by day\n Coder by night.\n"
+            android:id="@+id/textView1"
+
+            android:textColor="#000000"
+            android:gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:text="\nLike this app?\nPlease Rate it!\n"
+            android:id="@+id/textView"
+
+            android:textColor="#000000"
+            android:gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:text="Suggestions? Comments?\nContact me at:\n\ndanny.ko@gmail.com\nDanny Ko"
+            android:id="@+id/textView2"
+
+
+            android:textColor="#000000"
+            android:gravity="center"/>
+
+
+    </LinearLayout>
+
+</FrameLayout>

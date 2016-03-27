@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hwy400hwy9">
+        <item>"44.029544"</item>
+        <item>"-79.594417"</item>
+    </string-array>
+    <string-array name="hwy400langstaff">
+        <item>"43.809385"</item>
+        <item>"-79.543777"</item>
+    </string-array>
+    <string-array name="hwy4007w">
+        <item>"43.79142"</item>
+        <item>"-79.539657"</item>
+    </string-array>
+    <string-array name="hwy400407">
+        <item>"43.782993"</item>
+        <item>"-79.537425"</item>
+    </string-array>
+    <string-array name="hwy400steeles">
+        <item>"43.772767"</item>
+        <item>"-79.535022"</item>
+    </string-array>
+    <string-array name="hwy400finch">
+        <item>"43.754543"</item>
+        <item>"-79.53073"</item>
+    </string-array>
+    <string-array name="hwy400sheppard">
+        <item>"43.736437"</item>
+        <item>"-79.526267"</item>
+    </string-array>
+    <string-array name="hwy400wilson">
+        <item>"43.718388"</item>
+        <item>"-79.521117"</item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hwy7on27">
+        <item>"43.773015"</item>
+        <item>"-79.621539"</item>
+    </string-array>
+    <string-array name="hwy7pinevalley">
+        <item>"43.784108"</item>
+        <item>"-79.573045"</item>
+    </string-array>
+    <string-array name="hwy7weston">
+        <item>"43.789437"</item>
+        <item>"-79.547467"</item>
+    </string-array>
+    <string-array name="hwy7jane">
+        <item>"43.794146"</item>
+        <item>"-79.52455"</item>
+    </string-array>
+    <string-array name="hwy7keele">
+        <item>"43.800403"</item>
+        <item>"-79.499402"</item>
+    </string-array>
+    <string-array name="hwy7chalmers">
+        <item>"43.84078"</item>
+        <item>"-79.398329"</item>
+    </string-array>
+    <string-array name="hwy7valleymede">
+        <item>"43.842327"</item>
+        <item>"-79.39172"</item>
+    </string-array>
+    <string-array name="hwy7westbeavercreek">
+        <item>"43.843504"</item>
+        <item>"-79.38657"</item>
+    </string-array>
+    <string-array name="hwy7lesley">
+        <item>"43.844463"</item>
+        <item>"-79.382365"</item>
+    </string-array>
+    <string-array name="hwy7eastbeavercreek">
+        <item>"43.845546"</item>
+        <item>"-79.378159"</item>
+    </string-array>
+    <string-array name="hwy7404">
+        <item>"43.847187"</item>
+        <item>"-79.370778"</item>
+    </string-array>
+    <string-array name="hwy7southtowncentre">
+        <item>"43.854119"</item>
+        <item>"-79.339235"</item>
+    </string-array>
+    <string-array name="hwy7mccowan">
+        <item>"43.867146"</item>
+        <item>"-79.284518"</item>
+    </string-array>
+    <string-array name="hwy7ninthline">
+        <item>"43.87884"</item>
+        <item>"-79.234822"</item>
+    </string-array>
+
+
+
+</resources>
