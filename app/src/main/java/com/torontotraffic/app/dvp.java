@@ -228,137 +228,137 @@ public class dvp extends ActionBarActivity implements TabHost.OnTabChangeListene
                 getLatLong(R.array.hwydvp401);
                 break;
             case R.id.yorkmills:
-                image_url = "http://opendata.toronto.ca/transportation/cameras/loc80.jpg";
-                top_image = "http://www1.toronto.ca/City%20Of%20Toronto/Transportation%20Services/Rescu%20Traffic%20Cameras/Files/images/loc80n.jpg";
-                bottom_image = "http://www1.toronto.ca/City%20Of%20Toronto/Transportation%20Services/Rescu%20Traffic%20Cameras/Files/images/loc80s.jpg";
+                image_url = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc9116.jpg";
+                top_image = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/ComparisonImages/loc9116n.jpg";
+                bottom_image = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/ComparisonImages/loc9116s.jpg";
                 top_textbox = "Looking North";
                 bottom_textbox = "Looking South";
                 getLatLong(R.array.hwydvpyorkmills);
                 break;
             case R.id.threevalleys:
-                image_url = "http://opendata.toronto.ca/transportation/cameras/loc79.jpg";
-                top_image = "http://www1.toronto.ca/City%20Of%20Toronto/Transportation%20Services/Rescu%20Traffic%20Cameras/Files/images/loc79n.jpg";
-                bottom_image = "http://www1.toronto.ca/City%20Of%20Toronto/Transportation%20Services/Rescu%20Traffic%20Cameras/Files/images/loc79s.jpg";
+                image_url = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc9115.jpg";
+                top_image = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/ComparisonImages/loc9115n.jpg";
+                bottom_image = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/ComparisonImages/loc9115s.jpg";
                 top_textbox = "Looking North";
                 bottom_textbox = "Looking South";
                 getLatLong(R.array.hwydvp3valleys);
                 break;
             case R.id.lawrence:
-                image_url = "http://opendata.toronto.ca/transportation/cameras/loc78.jpg";
-                top_image = "http://www1.toronto.ca/City%20Of%20Toronto/Transportation%20Services/Rescu%20Traffic%20Cameras/Files/images/loc78n.jpg";
-                bottom_image = "http://www1.toronto.ca/City%20Of%20Toronto/Transportation%20Services/Rescu%20Traffic%20Cameras/Files/images/loc78s.jpg";
+                image_url = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc9114.jpg";
+                top_image = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/ComparisonImages/loc9114n.jpg";
+                bottom_image = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/ComparisonImages/loc9114s.jpg";
                 top_textbox = "Looking North";
                 bottom_textbox = "Looking South";
                 getLatLong(R.array.hwydvplawrence);
                 break;
             case R.id.twintunnels:
-                image_url = "http://opendata.toronto.ca/transportation/cameras/loc77.jpg";
-                top_image = "http://www1.toronto.ca/City%20Of%20Toronto/Transportation%20Services/Rescu%20Traffic%20Cameras/Files/images/loc77n.jpg";
-                bottom_image = "http://www1.toronto.ca/City%20Of%20Toronto/Transportation%20Services/Rescu%20Traffic%20Cameras/Files/images/loc77s.jpg";
+                image_url = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc9113.jpg";
+                top_image = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/ComparisonImages/loc9113n.jpg";
+                bottom_image = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/ComparisonImages/loc9113s.jpg";
                 top_textbox = "Looking North";
                 bottom_textbox = "Looking South";
                 getLatLong(R.array.hwydvptwintunnels);
                 break;
             case R.id.wynford:
-                image_url = "http://opendata.toronto.ca/transportation/cameras/loc81.jpg";
-                top_image = "http://www1.toronto.ca/City%20Of%20Toronto/Transportation%20Services/Rescu%20Traffic%20Cameras/Files/images/loc81n.jpg";
-                bottom_image = "http://www1.toronto.ca/City%20Of%20Toronto/Transportation%20Services/Rescu%20Traffic%20Cameras/Files/images/loc81s.jpg";
+                image_url = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc9112.jpg";
+                top_image = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/ComparisonImages/loc9112n.jpg";
+                bottom_image = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/ComparisonImages/loc9112s.jpg";
                 top_textbox = "Looking North";
                 bottom_textbox = "Looking South";
                 getLatLong(R.array.hwydvpwynford);
                 break;
             case R.id.eglinton:
-                image_url = "http://opendata.toronto.ca/transportation/cameras/loc76.jpg";
-                top_image = "http://www1.toronto.ca/City%20Of%20Toronto/Transportation%20Services/Rescu%20Traffic%20Cameras/Files/images/loc76n.jpg";
-                bottom_image = "http://www1.toronto.ca/City%20Of%20Toronto/Transportation%20Services/Rescu%20Traffic%20Cameras/Files/images/loc76s.jpg";
+                image_url = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc9111.jpg";
+                top_image = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/ComparisonImages/loc9111n.jpg";
+                bottom_image = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/ComparisonImages/loc9111s.jpg";
                 top_textbox = "Looking North";
                 bottom_textbox = "Looking South";
                 getLatLong(R.array.hwydvpeglinton);
                 break;
             case R.id.stdennis:
-                image_url = "http://opendata.toronto.ca/transportation/cameras/loc75.jpg";
-                top_image = "http://www1.toronto.ca/City%20Of%20Toronto/Transportation%20Services/Rescu%20Traffic%20Cameras/Files/images/loc75n.jpg";
-                bottom_image = "http://www1.toronto.ca/City%20Of%20Toronto/Transportation%20Services/Rescu%20Traffic%20Cameras/Files/images/loc75s.jpg";
+                image_url = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc9110.jpg";
+                top_image = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/ComparisonImages/loc9110n.jpg";
+                bottom_image = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/ComparisonImages/loc9110s.jpg";
                 top_textbox = "Looking North";
                 bottom_textbox = "Looking South";
                 getLatLong(R.array.hwydvpstdennis);
                 break;
             case R.id.spanbridge:
-                image_url = "http://opendata.toronto.ca/transportation/cameras/loc74.jpg";
-                top_image = "http://www1.toronto.ca/City%20Of%20Toronto/Transportation%20Services/Rescu%20Traffic%20Cameras/Files/images/loc74n.jpg";
-                bottom_image = "http://www1.toronto.ca/City%20Of%20Toronto/Transportation%20Services/Rescu%20Traffic%20Cameras/Files/images/loc74s.jpg";
+                image_url = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc9109.jpg";
+                top_image = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/ComparisonImages/loc9109n.jpg";
+                bottom_image = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/ComparisonImages/loc9109s.jpg";
                 top_textbox = "Looking North";
                 bottom_textbox = "Looking South";
                 getLatLong(R.array.hwydvpspanbridge);
                 break;
             case R.id.cnrailway:
-                image_url = "http://opendata.toronto.ca/transportation/cameras/loc73.jpg";
-                top_image = "http://www1.toronto.ca/City%20Of%20Toronto/Transportation%20Services/Rescu%20Traffic%20Cameras/Files/images/loc73n.jpg";
-                bottom_image = "http://www1.toronto.ca/City%20Of%20Toronto/Transportation%20Services/Rescu%20Traffic%20Cameras/Files/images/loc73s.jpg";
+                image_url = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc9108.jpg";
+                top_image = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/ComparisonImages/loc9108n.jpg";
+                bottom_image = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/ComparisonImages/loc9108s.jpg";
                 top_textbox = "Looking North";
                 bottom_textbox = "Looking South";
                 getLatLong(R.array.hwydvpcnrailway);
                 break;
             case R.id.donmillsdvp:
-                image_url = "http://opendata.toronto.ca/transportation/cameras/loc71.jpg";
-                top_image = "http://www1.toronto.ca/City%20Of%20Toronto/Transportation%20Services/Rescu%20Traffic%20Cameras/Files/images/loc71n.jpg";
-                bottom_image = "http://www1.toronto.ca/City%20Of%20Toronto/Transportation%20Services/Rescu%20Traffic%20Cameras/Files/images/loc71s.jpg";
+                image_url = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc9106.jpg";
+                top_image = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/ComparisonImages/loc9106n.jpg";
+                bottom_image = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/ComparisonImages/loc9106s.jpg";
                 top_textbox = "Looking North";
                 bottom_textbox = "Looking South";
                 getLatLong(R.array.hwydvpdonmills);
                 break;
             case R.id.millwood:
-                image_url = "http://opendata.toronto.ca/transportation/cameras/loc70.jpg";
-                top_image = "http://www1.toronto.ca/City%20Of%20Toronto/Transportation%20Services/Rescu%20Traffic%20Cameras/Files/images/loc70n.jpg";
-                bottom_image = "http://www1.toronto.ca/City%20Of%20Toronto/Transportation%20Services/Rescu%20Traffic%20Cameras/Files/images/loc70s.jpg";
+                image_url = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc9105.jpg";
+                top_image = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/ComparisonImages/loc9105n.jpg";
+                bottom_image = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/ComparisonImages/loc9105s.jpg";
                 top_textbox = "Looking North";
                 bottom_textbox = "Looking South";
                 getLatLong(R.array.hwydvpmillwood);
                 break;
             case R.id.beechwood:
-                image_url = "http://opendata.toronto.ca/transportation/cameras/loc69.jpg";
-                top_image = "http://www1.toronto.ca/City%20Of%20Toronto/Transportation%20Services/Rescu%20Traffic%20Cameras/Files/images/loc69n.jpg";
-                bottom_image = "http://www1.toronto.ca/City%20Of%20Toronto/Transportation%20Services/Rescu%20Traffic%20Cameras/Files/images/loc69s.jpg";
+                image_url = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc9104.jpg";
+                top_image = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/ComparisonImages/loc9104n.jpg";
+                bottom_image = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/ComparisonImages/loc9104s.jpg";
                 top_textbox = "Looking North";
                 bottom_textbox = "Looking South";
                 getLatLong(R.array.hwydvpbeechwood);
                 break;
             case R.id.bloorramp:
-                image_url = "http://opendata.toronto.ca/transportation/cameras/loc68.jpg";
-                top_image = "http://www1.toronto.ca/City%20Of%20Toronto/Transportation%20Services/Rescu%20Traffic%20Cameras/Files/images/loc68n.jpg";
-                bottom_image = "http://www1.toronto.ca/City%20Of%20Toronto/Transportation%20Services/Rescu%20Traffic%20Cameras/Files/images/loc68s.jpg";
+                image_url = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc9103.jpg";
+                top_image = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/ComparisonImages/loc9103n.jpg";
+                bottom_image = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/ComparisonImages/loc9103s.jpg";
                 top_textbox = "Looking North";
                 bottom_textbox = "Looking South";
                 getLatLong(R.array.hwydvpbloorramp);
                 break;
             case R.id.danforth:
-                image_url = "http://opendata.toronto.ca/transportation/cameras/loc67.jpg";
-                top_image = "http://www1.toronto.ca/City%20Of%20Toronto/Transportation%20Services/Rescu%20Traffic%20Cameras/Files/images/loc67n.jpg";
-                bottom_image = "http://www1.toronto.ca/City%20Of%20Toronto/Transportation%20Services/Rescu%20Traffic%20Cameras/Files/images/loc67s.jpg";
+                image_url = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc9102.jpg";
+                top_image = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/ComparisonImages/loc9102n.jpg";
+                bottom_image = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/ComparisonImages/loc9102s.jpg";
                 top_textbox = "Looking North";
                 bottom_textbox = "Looking South";
                 getLatLong(R.array.hwydvpdanforth);
                 break;
             case R.id.dundas:
-                image_url = "http://opendata.toronto.ca/transportation/cameras/loc66.jpg";
-                top_image = "http://www1.toronto.ca/City%20Of%20Toronto/Transportation%20Services/Rescu%20Traffic%20Cameras/Files/images/loc66n.jpg";
-                bottom_image = "http://www1.toronto.ca/City%20Of%20Toronto/Transportation%20Services/Rescu%20Traffic%20Cameras/Files/images/loc66s.jpg";
+                image_url = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc9101.jpg";
+                top_image = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/ComparisonImages/loc9101n.jpg";
+                bottom_image = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/ComparisonImages/loc9101s.jpg";
                 top_textbox = "Looking North";
                 bottom_textbox = "Looking South";
                 getLatLong(R.array.hwydvpdundas);
                 break;
             case R.id.eastern:
-                image_url = "http://opendata.toronto.ca/transportation/cameras/loc65.jpg";
-                top_image = "http://www1.toronto.ca/City%20Of%20Toronto/Transportation%20Services/Rescu%20Traffic%20Cameras/Files/images/loc65n.jpg";
-                bottom_image = "http://www1.toronto.ca/City%20Of%20Toronto/Transportation%20Services/Rescu%20Traffic%20Cameras/Files/images/loc65s.jpg";
+                image_url = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc9100.jpg";
+                top_image = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/ComparisonImages/loc9100n.jpg";
+                bottom_image = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/ComparisonImages/loc9100s.jpg";
                 top_textbox = "Looking North";
                 bottom_textbox = "Looking South";
                 getLatLong(R.array.hwydvpeastern);
                 break;
             case R.id.gardinerramp:
-                image_url = "http://opendata.toronto.ca/transportation/cameras/loc2.jpg";
-                top_image = "http://www1.toronto.ca/City%20Of%20Toronto/Transportation%20Services/Rescu%20Traffic%20Cameras/Files/images/loc2e.jpg";
-                bottom_image = "http://www1.toronto.ca/City%20Of%20Toronto/Transportation%20Services/Rescu%20Traffic%20Cameras/Files/images/loc2w.jpg";
+                image_url = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc9221.jpg";
+                top_image = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/ComparisonImages/loc9221e.jpg";
+                bottom_image = "http://opendata.toronto.ca/transportation/tmc/rescucameraimages/ComparisonImages/loc9221w.jpg";
                 top_textbox = "Looking East";
                 bottom_textbox = "Looking West";
                 getLatLong(R.array.hwydvpgardiner);

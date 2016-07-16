@@ -191,14 +191,6 @@
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
-                    android:text="Skydome"
-                    android:id="@+id/skydome"
-                    android:clickable="true"
-                    android:onClick="onButtonClickGardiner"
-                    android:textColor="#ffffff" />
-                <Button
-                    android:layout_width="fill_parent"
-                    android:layout_height="wrap_content"
                     android:text="York"
                     android:id="@+id/york"
                     android:clickable="true"
