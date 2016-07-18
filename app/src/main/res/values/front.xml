@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="frontbathurst">
+        <item>"43.640753"</item>
+        <item>"-79.401431"</item>
+    </string-array>
+    <string-array name="frontspadina">
+        <item>"43.642756"</item>
+        <item>"-79.393921"</item>
+    </string-array>
+    <string-array name="frontjohn">
+        <item>"43.644006"</item>
+        <item>"-79.388599"</item>
+    </string-array>
+    <string-array name="frontsimcoe">
+        <item>"43.644782"</item>
+        <item>"-79.384983"</item>
+    </string-array>
+    <string-array name="frontyork">
+        <item>"43.645318"</item>
+        <item>"-79.382451"</item>
+    </string-array>
+    <string-array name="frontjarvis">
+        <item>"43.649433"</item>
+        <item>"-79.371443"</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,257 @@
+<FrameLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#000000">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+
+        <FrameLayout
+            android:layout_width="fill_parent"
+            android:layout_height="220dp">
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+
+                <ScrollView
+                    android:layout_width="fill_parent"
+                    android:layout_height="220dp"
+                    android:id="@+id/scrollView"
+                    android:layout_weight="0.57"
+                    android:fadeScrollbars="false"
+                    android:scrollbarThumbVertical="@drawable/scrollbar_vertical_thumb"
+                    android:scrollbarTrackVertical="@drawable/scrollbar_vertical_track"
+                    android:background="@drawable/leftborder">
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="fill_parent"
+                        android:layout_height="200dp"
+                        android:weightSum="1">
+                        <Button
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Dufferin"
+                            android:id="@+id/shepparddufferin"
+                            android:clickable="true"
+                            android:onClick="onButtonClickSheppard"
+                            android:textColor="#000000" />
+                        <Button
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Bathurst"
+                            android:id="@+id/sheppardbathurst"
+                            android:clickable="true"
+                            android:onClick="onButtonClickSheppard"
+                            android:textColor="#000000" />
+                        <Button
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Yonge"
+                            android:id="@+id/sheppardyonge"
+                            android:clickable="true"
+                            android:onClick="onButtonClickSheppard"
+                            android:textColor="#000000" />
+                        <Button
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Bayview"
+                            android:id="@+id/sheppardbayview"
+                            android:clickable="true"
+                            android:onClick="onButtonClickSheppard"
+                            android:textColor="#000000" />
+                        <Button
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Leslie"
+                            android:id="@+id/sheppardleslie"
+                            android:clickable="true"
+                            android:onClick="onButtonClickSheppard"
+                            android:textColor="#000000" />
+                        <Button
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Don Mills"
+                            android:id="@+id/shepparddonmills"
+                            android:clickable="true"
+                            android:onClick="onButtonClickSheppard"
+                            android:textColor="#000000" />
+                        <Button
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Victoria Park"
+                            android:id="@+id/sheppardvictoriapark"
+                            android:clickable="true"
+                            android:onClick="onButtonClickSheppard"
+                            android:textColor="#000000" />
+                        <Button
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Warden"
+                            android:id="@+id/sheppardwarden"
+                            android:clickable="true"
+                            android:onClick="onButtonClickSheppard"
+                            android:textColor="#000000" />
+                        <Button
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Kennedy"
+                            android:id="@+id/sheppardkennedy"
+                            android:clickable="true"
+                            android:onClick="onButtonClickSheppard"
+                            android:textColor="#000000" />
+                        <Button
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:text="McCowan Rd"
+                            android:id="@+id/sheppardmccowan"
+                            android:clickable="true"
+                            android:onClick="onButtonClickSheppard"
+                            android:textColor="#000000" />
+                        <Button
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Markham"
+                            android:id="@+id/sheppardmarkham"
+                            android:clickable="true"
+                            android:onClick="onButtonClickSheppard"
+                            android:textColor="#000000" />
+                        <Button
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Morningside"
+                            android:id="@+id/sheppardmorningside"
+                            android:clickable="true"
+                            android:onClick="onButtonClickSheppard"
+                            android:textColor="#000000" />
+                    </LinearLayout>
+                </ScrollView>
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="150dp"
+                    android:layout_height="220dp"
+                    android:weightSum="1"
+                    android:background="@drawable/border">
+
+                    <TextView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Reference Image"
+                        android:id="@+id/textView"
+                        android:textColor="#ffffff"
+                        android:layout_gravity="center_horizontal"
+                        android:gravity="center_horizontal" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:id="@+id/toptextbox"
+                        android:textColor="#ffffff"
+                        android:textAlignment="center"
+                        android:gravity="center|bottom"
+                        android:layout_gravity="bottom"
+                        android:layout_weight="0.015"/>
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/topView"
+                        android:layout_weight="0.5" />
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:id="@+id/bottomtextbox"
+                        android:textColor="#ffffff"
+                        android:textAlignment="center"
+                        android:gravity="center"
+                        android:layout_gravity="bottom" />
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/bottomView"
+                        android:layout_weight="0.50"
+                        android:layout_marginBottom="3dp" />
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+        </FrameLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="#000000"
+            android:weightSum="1"
+            android:gravity="bottom"
+            android:layout_gravity="bottom">
+
+            <TabHost
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:id="@+id/tabHost">
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:orientation="vertical">
+
+                    <TabWidget
+                        android:id="@android:id/tabs"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:background="#ffffff"></TabWidget>
+
+                    <FrameLayout
+                        android:id="@android:id/tabcontent"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent">
+
+                        <LinearLayout
+                            android:id="@+id/cameraTab"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:layout_width="fill_parent"
+                                android:layout_height="fill_parent"
+                                android:id="@+id/trafficView" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/mapTab"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:orientation="vertical">
+
+                            <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+                                xmlns:map="http://schemas.android.com/apk/res-auto"
+                                android:id="@+id/mapView"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                map:cameraZoom="14"
+                                map:cameraTilt="45"
+                                android:name="com.google.android.gms.maps.MapFragment"/>
+
+
+
+                        </LinearLayout>
+
+                    </FrameLayout>
+                </LinearLayout>
+            </TabHost>
+
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>

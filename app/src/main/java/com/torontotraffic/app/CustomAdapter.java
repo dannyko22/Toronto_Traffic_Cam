@@ -95,12 +95,45 @@ public class CustomAdapter extends BaseAdapter{
                         context.startActivity(new Intent(context,Four_two_seven.class));
                         break;
                     case 8:
-                        context.startActivity(new Intent(context,HwySeven.class));
+                        context.startActivity(new Intent(context,Allen.class));
                         break;
                     case 9:
-                        context.startActivity(new Intent(context,lakeshore.class));
+                        context.startActivity(new Intent(context,HwySeven.class));
                         break;
                     case 10:
+                        context.startActivity(new Intent(context,steeles.class));
+                        break;
+                    case 11:
+                        context.startActivity(new Intent(context,finch.class));
+                        break;
+                    case 12:
+                        context.startActivity(new Intent(context,sheppard.class));
+                        break;
+                    case 13:
+                        context.startActivity(new Intent(context,eglinton.class));
+                        break;
+                    case 14:
+                        context.startActivity(new Intent(context,bloor.class));
+                        break;
+                    case 15:
+                        context.startActivity(new Intent(context,college.class));
+                        break;
+                    case 16:
+                        context.startActivity(new Intent(context,dundas.class));
+                        break;
+                    case 17:
+                        context.startActivity(new Intent(context,richmond.class));
+                        break;
+                    case 18:
+                        context.startActivity(new Intent(context,adelaide.class));
+                        break;
+                    case 19:
+                        context.startActivity(new Intent(context,front.class));
+                        break;
+                    case 20:
+                        context.startActivity(new Intent(context,lakeshore.class));
+                        break;
+                    case 21:
                         context.startActivity(new Intent(context,aboutme.class));
                         break;
                     default:

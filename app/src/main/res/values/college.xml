@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="collegebeverley">
+        <item>"43.658661"</item>
+        <item>"-79.395957"</item>
+    </string-array>
+    <string-array name="collegeuniversity">
+        <item>"43.659895"</item>
+        <item>"-79.390335"</item>
+    </string-array>
+    <string-array name="collegebay">
+        <item>"43.660795"</item>
+        <item>"-79.385818"</item>
+    </string-array>
+    <string-array name="collegeyonge">
+        <item>"43.661386"</item>
+        <item>"-79.383099"</item>
+    </string-array>
+    <string-array name="collegechurch">
+        <item>"43.661886"</item>
+        <item>"-79.379334"</item>
+    </string-array>
+    <string-array name="collegejarvis">
+        <item>"43.662402"</item>
+        <item>"-79.376652"</item>
+    </string-array>
+
+</resources>

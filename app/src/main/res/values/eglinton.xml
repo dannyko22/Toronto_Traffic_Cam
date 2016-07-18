@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="eglintonjane">
+        <item>"43.684387"</item>
+        <item>"-79.498731"</item>
+    </string-array>
+    <string-array name="eglintonblackcreek">
+        <item>"43.688375"</item>
+        <item>"-79.482863"</item>
+    </string-array>
+    <string-array name="eglintonkeele">
+        <item>"43.690206"</item>
+        <item>"-79.475031"</item>
+    </string-array>
+    <string-array name="eglintoncaledonia">
+        <item>"43.693030"</item>
+        <item>"-79.462167"</item>
+    </string-array>
+    <string-array name="eglintondufferin">
+        <item>"43.695683"</item>
+        <item>"-79.450322"</item>
+    </string-array>
+    <string-array name="eglintonallen">
+        <item>"43.698786"</item>
+        <item>"-79.435838"</item>
+    </string-array>
+    <string-array name="eglintonbathurst">
+        <item>"43.700997"</item>
+        <item>"-79.425495"</item>
+    </string-array>
+    <string-array name="eglintonavenue">
+        <item>"43.704518"</item>
+        <item>"-79.408436"</item>
+    </string-array>
+    <string-array name="eglintonyonge">
+        <item>"43.706738"</item>
+        <item>"-79.398286"</item>
+    </string-array>
+    <string-array name="eglintonbayview">
+        <item>"43.711089"</item>
+        <item>"-79.377118"</item>
+    </string-array>
+    <string-array name="eglintonlaird">
+        <item>"43.713578"</item>
+        <item>"-79.364769"</item>
+    </string-array>
+    <string-array name="eglintonleslie">
+        <item>"43.717083"</item>
+        <item>"-79.349952"</item>
+    </string-array>
+    <string-array name="eglintondonmills">
+        <item>"43.720487"</item>
+        <item>"-79.338891"</item>
+    </string-array>
+    <string-array name="eglintoncreditunion">
+        <item>"43.726124"</item>
+        <item>"-79.318249"</item>
+    </string-array>
+    <string-array name="eglintonvictoriapark">
+        <item>"43.724728"</item>
+        <item>"-79.302606"</item>
+    </string-array>
+    <string-array name="eglintonwarden">
+        <item>"43.727860"</item>
+        <item>"-79.287639"</item>
+    </string-array>
+    <string-array name="eglintonbirchmount">
+        <item>"43.729953"</item>
+        <item>"-79.277854"</item>
+    </string-array>
+    <string-array name="eglintonkennedy">
+        <item>"43.732201"</item>
+        <item>"-79.267983"</item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="richmondspadina">
+        <item>"43.647857"</item>
+        <item>"-79.395992"</item>
+    </string-array>
+    <string-array name="richmonduniversity">
+        <item>"43.650155"</item>
+        <item>"-79.386143"</item>
+    </string-array>
+    <string-array name="richmondbay">
+        <item>"43.651180"</item>
+        <item>"-79.381315"</item>
+    </string-array>
+    <string-array name="richmondchurch">
+        <item>"43.652445"</item>
+        <item>"-79.375446"</item>
+    </string-array>
+    <string-array name="richmondparliament">
+        <item>"43.654541"</item>
+        <item>"-79.364009"</item>
+    </string-array>
+
+</resources>

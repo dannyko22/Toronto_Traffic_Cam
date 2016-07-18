@@ -37,6 +37,8 @@
                 android:id="@+id/scrollView"
                 android:layout_weight="0.57"
                 android:fadeScrollbars="false"
+                android:scrollbarThumbVertical="@drawable/scrollbar_vertical_thumb"
+                android:scrollbarTrackVertical="@drawable/scrollbar_vertical_track"
                 android:background="@drawable/leftborder">
 
                 <LinearLayout
@@ -51,7 +53,7 @@
                     android:id="@+id/fourtwoseven"
                     android:clickable="true"
                     android:onClick="onButtonClickGardiner"
-                    android:textColor="#ffffff" />
+                    android:textColor="#000000" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
@@ -59,7 +61,7 @@
                     android:id="@+id/kiplingqew"
                     android:clickable="true"
                     android:onClick="onButtonClickGardiner"
-                    android:textColor="#ffffff" />
+                    android:textColor="#000000" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
@@ -67,7 +69,7 @@
                     android:id="@+id/islingtonqew"
                     android:clickable="true"
                     android:onClick="onButtonClickGardiner"
-                    android:textColor="#ffffff" />
+                    android:textColor="#000000" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
@@ -75,7 +77,7 @@
                     android:id="@+id/royalyork"
                     android:clickable="true"
                     android:onClick="onButtonClickGardiner"
-                    android:textColor="#ffffff" />
+                    android:textColor="#000000" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
@@ -83,7 +85,7 @@
                     android:id="@+id/grand"
                     android:clickable="true"
                     android:onClick="onButtonClickGardiner"
-                    android:textColor="#ffffff" />
+                    android:textColor="#000000" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
@@ -91,7 +93,7 @@
                     android:id="@+id/parklawn"
                     android:clickable="true"
                     android:onClick="onButtonClickGardiner"
-                    android:textColor="#ffffff" />
+                    android:textColor="#000000" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
@@ -99,7 +101,7 @@
                     android:id="@+id/palacepier"
                     android:clickable="true"
                     android:onClick="onButtonClickGardiner"
-                    android:textColor="#ffffff" />
+                    android:textColor="#000000" />
                 <Button
                         android:layout_width="fill_parent"
                         android:layout_height="wrap_content"
@@ -107,7 +109,7 @@
                         android:id="@+id/humber"
                         android:clickable="true"
                         android:onClick="onButtonClickGardiner"
-                        android:textColor="#ffffff" />
+                        android:textColor="#000000" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
@@ -115,7 +117,7 @@
                     android:id="@+id/kingsway"
                     android:clickable="true"
                     android:onClick="onButtonClickGardiner"
-                    android:textColor="#ffffff" />
+                    android:textColor="#000000" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
@@ -123,7 +125,7 @@
                     android:id="@+id/ellis"
                     android:clickable="true"
                     android:onClick="onButtonClickGardiner"
-                    android:textColor="#ffffff" />
+                    android:textColor="#000000" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
@@ -131,7 +133,7 @@
                     android:id="@+id/sunnyside"
                     android:clickable="true"
                     android:onClick="onButtonClickGardiner"
-                    android:textColor="#ffffff" />
+                    android:textColor="#000000" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
@@ -139,7 +141,7 @@
                     android:id="@+id/dowling"
                     android:clickable="true"
                     android:onClick="onButtonClickGardiner"
-                    android:textColor="#ffffff" />
+                    android:textColor="#000000" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
@@ -147,7 +149,7 @@
                     android:id="@+id/dunn"
                     android:clickable="true"
                     android:onClick="onButtonClickGardiner"
-                    android:textColor="#ffffff" />
+                    android:textColor="#000000" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
@@ -155,7 +157,7 @@
                     android:id="@+id/dufferingardiner"
                     android:clickable="true"
                     android:onClick="onButtonClickGardiner"
-                    android:textColor="#ffffff" />
+                    android:textColor="#000000" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
@@ -163,7 +165,7 @@
                     android:id="@+id/strachan"
                     android:clickable="true"
                     android:onClick="onButtonClickGardiner"
-                    android:textColor="#ffffff" />
+                    android:textColor="#000000" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
@@ -171,7 +173,7 @@
                     android:id="@+id/bathurst"
                     android:clickable="true"
                     android:onClick="onButtonClickGardiner"
-                    android:textColor="#ffffff" />
+                    android:textColor="#000000" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
@@ -179,7 +181,7 @@
                     android:id="@+id/spadina"
                     android:clickable="true"
                     android:onClick="onButtonClickGardiner"
-                    android:textColor="#ffffff" />
+                    android:textColor="#000000" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
@@ -187,7 +189,7 @@
                     android:id="@+id/eastspadina"
                     android:clickable="true"
                     android:onClick="onButtonClickGardiner"
-                    android:textColor="#ffffff" />
+                    android:textColor="#000000" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
@@ -195,7 +197,7 @@
                     android:id="@+id/york"
                     android:clickable="true"
                     android:onClick="onButtonClickGardiner"
-                    android:textColor="#ffffff" />
+                    android:textColor="#000000" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
@@ -203,7 +205,7 @@
                     android:id="@+id/jarvis"
                     android:clickable="true"
                     android:onClick="onButtonClickGardiner"
-                    android:textColor="#ffffff" />
+                    android:textColor="#000000" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
@@ -211,7 +213,7 @@
                     android:id="@+id/cherry"
                     android:clickable="true"
                     android:onClick="onButtonClickGardiner"
-                    android:textColor="#ffffff" />
+                    android:textColor="#000000" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
@@ -219,7 +221,7 @@
                     android:id="@+id/dvpgardiner"
                     android:clickable="true"
                     android:onClick="onButtonClickGardiner"
-                    android:textColor="#ffffff" />
+                    android:textColor="#000000" />
             </LinearLayout>
         </ScrollView>
 

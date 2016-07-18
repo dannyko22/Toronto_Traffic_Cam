@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="adelaidesimcoe">
+        <item>"43.648618"</item>
+        <item>"-79.386550"</item>
+    </string-array>
+    <string-array name="adelaideuniversity">
+        <item>"43.648882"</item>
+        <item>"-79.385477"</item>
+    </string-array>
+    <string-array name="adelaidebay">
+        <item>"43.649914"</item>
+        <item>"-79.380767"</item>
+    </string-array>
+    <string-array name="adelaidechurch">
+        <item>"43.651179"</item>
+        <item>"-79.374909"</item>
+    </string-array>
+    <string-array name="adelaideparliament">
+        <item>"43.653570"</item>
+        <item>"-79.363590"</item>
+    </string-array>
+
+</resources>

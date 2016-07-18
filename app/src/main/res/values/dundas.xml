@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dundasuniversity">
+        <item>"43.654821"</item>
+        <item>"-79.388160"</item>
+    </string-array>
+    <string-array name="dundasyonge">
+        <item>"43.656381"</item>
+        <item>"-79.380907"</item>
+    </string-array>
+    <string-array name="dundasjarvis">
+        <item>"43.657017"</item>
+        <item>"-79.374534"</item>
+    </string-array>
+
+</resources>

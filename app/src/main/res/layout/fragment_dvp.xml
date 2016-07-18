@@ -27,6 +27,8 @@
                     android:id="@+id/scrollView"
                     android:layout_weight="0.57"
                     android:fadeScrollbars="false"
+                    android:scrollbarThumbVertical="@drawable/scrollbar_vertical_thumb"
+                    android:scrollbarTrackVertical="@drawable/scrollbar_vertical_track"
                     android:background="@drawable/leftborder">
 
                     <LinearLayout
@@ -41,7 +43,7 @@
                     android:id="@+id/ave16404"
                     android:clickable="true"
                     android:onClick="onButtonClickDVP"
-                    android:textColor="#ffffff" />
+                    android:textColor="#000000" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
@@ -49,7 +51,7 @@
                     android:id="@+id/hwy7404"
                     android:clickable="true"
                     android:onClick="onButtonClickDVP"
-                    android:textColor="#ffffff" />
+                    android:textColor="#000000" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
@@ -57,7 +59,7 @@
                     android:id="@+id/nhwy407404"
                     android:clickable="true"
                     android:onClick="onButtonClickDVP"
-                    android:textColor="#ffffff" />
+                    android:textColor="#000000" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
@@ -65,7 +67,7 @@
                     android:id="@+id/shwy407404"
                     android:clickable="true"
                     android:onClick="onButtonClickDVP"
-                    android:textColor="#ffffff" />
+                    android:textColor="#000000" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
@@ -73,7 +75,7 @@
                     android:id="@+id/john404"
                     android:clickable="true"
                     android:onClick="onButtonClickDVP"
-                    android:textColor="#ffffff" />
+                    android:textColor="#000000" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
@@ -81,7 +83,7 @@
                     android:id="@+id/nsteeles404"
                     android:clickable="true"
                     android:onClick="onButtonClickDVP"
-                    android:textColor="#ffffff" />
+                    android:textColor="#000000" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
@@ -89,7 +91,7 @@
                     android:id="@+id/steeles404"
                     android:clickable="true"
                     android:onClick="onButtonClickDVP"
-                    android:textColor="#ffffff" />
+                    android:textColor="#000000" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
@@ -97,7 +99,7 @@
                     android:id="@+id/ssteeles404"
                     android:clickable="true"
                     android:onClick="onButtonClickDVP"
-                    android:textColor="#ffffff" />
+                    android:textColor="#000000" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
@@ -105,14 +107,14 @@
                     android:id="@+id/dvpfinch"
                     android:clickable="true"
                     android:onClick="onButtonClickDVP"
-                    android:textColor="#ffffff" />
+                    android:textColor="#000000" />
 
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
                     android:text="Van Horne"
                     android:id="@+id/dvpvanhorne"
-                    android:textColor="#ffffff"
+                    android:textColor="#000000"
                     android:onClick="onButtonClickDVP" />
 
                 <Button
@@ -120,7 +122,7 @@
                     android:layout_height="wrap_content"
                     android:text="Sheppard HOV"
                     android:id="@+id/sheppardhov"
-                    android:textColor="#ffffff"
+                    android:textColor="#000000"
                     android:onClick="onButtonClickDVP" />
 
                 <Button
@@ -128,14 +130,14 @@
                     android:layout_height="wrap_content"
                     android:text="401"
                     android:id="@+id/fouroone"
-                    android:textColor="#ffffff"
+                    android:textColor="#000000"
                     android:onClick="onButtonClickDVP" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
                     android:text="York Mills"
                     android:id="@+id/yorkmills"
-                    android:textColor="#ffffff"
+                    android:textColor="#000000"
                     android:onClick="onButtonClickDVP" />
 
                 <Button
@@ -143,112 +145,112 @@
                     android:layout_height="wrap_content"
                     android:text="Three Valleys Dr"
                     android:id="@+id/threevalleys"
-                    android:textColor="#ffffff"
+                    android:textColor="#000000"
                     android:onClick="onButtonClickDVP" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
                     android:text="Lawrence"
                     android:id="@+id/lawrence"
-                    android:textColor="#ffffff"
+                    android:textColor="#000000"
                     android:onClick="onButtonClickDVP" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
                     android:text="Twin Tunnels"
                     android:id="@+id/twintunnels"
-                    android:textColor="#ffffff"
+                    android:textColor="#000000"
                     android:onClick="onButtonClickDVP" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
                     android:text="Wynford Dr"
                     android:id="@+id/wynford"
-                    android:textColor="#ffffff"
+                    android:textColor="#000000"
                     android:onClick="onButtonClickDVP" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
                     android:text="Eglinton"
                     android:id="@+id/eglinton"
-                    android:textColor="#ffffff"
+                    android:textColor="#000000"
                     android:onClick="onButtonClickDVP" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
                     android:text="St Dennis Dr"
                     android:id="@+id/stdennis"
-                    android:textColor="#ffffff"
+                    android:textColor="#000000"
                     android:onClick="onButtonClickDVP" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
                     android:text="Spanbridge"
                     android:id="@+id/spanbridge"
-                    android:textColor="#ffffff"
+                    android:textColor="#000000"
                     android:onClick="onButtonClickDVP" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
                     android:text="CN Railway"
                     android:id="@+id/cnrailway"
-                    android:textColor="#ffffff"
+                    android:textColor="#000000"
                     android:onClick="onButtonClickDVP" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
                     android:text="Don Mills"
                     android:id="@+id/donmillsdvp"
-                    android:textColor="#ffffff"
+                    android:textColor="#000000"
                     android:onClick="onButtonClickDVP" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
                     android:text="Millwood"
                     android:id="@+id/millwood"
-                    android:textColor="#ffffff"
+                    android:textColor="#000000"
                     android:onClick="onButtonClickDVP" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
                     android:text="Beechwood"
                     android:id="@+id/beechwood"
-                    android:textColor="#ffffff"
+                    android:textColor="#000000"
                     android:onClick="onButtonClickDVP" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
                     android:text="Bloor Ramp"
                     android:id="@+id/bloorramp"
-                    android:textColor="#ffffff"
+                    android:textColor="#000000"
                     android:onClick="onButtonClickDVP" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
                     android:text="Danforth"
                     android:id="@+id/danforth"
-                    android:textColor="#ffffff"
+                    android:textColor="#000000"
                     android:onClick="onButtonClickDVP" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
                     android:text="Dundas"
                     android:id="@+id/dundas"
-                    android:textColor="#ffffff"
+                    android:textColor="#000000"
                     android:onClick="onButtonClickDVP" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
                     android:text="Eastern"
                     android:id="@+id/eastern"
-                    android:textColor="#ffffff"
+                    android:textColor="#000000"
                     android:onClick="onButtonClickDVP" />
                 <Button
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
                     android:text="Gardiner Ramp"
                     android:id="@+id/gardinerramp"
-                    android:textColor="#ffffff"
+                    android:textColor="#000000"
                     android:onClick="onButtonClickDVP" />
 
             </LinearLayout>

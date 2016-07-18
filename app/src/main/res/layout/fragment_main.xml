@@ -11,6 +11,13 @@
     android:gravity="center_vertical"
     android:clickable="true">
 
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:id="@+id/imageView"
+        android:background="@drawable/toronto" />
     <com.google.android.gms.ads.AdView
         android:id="@+id/adView"
         android:layout_width="match_parent"
@@ -19,13 +26,6 @@
         ads:adSize="BANNER"
         ads:adUnitId="@string/banner_ad_unit_id">
     </com.google.android.gms.ads.AdView>
-
-    <ImageView
-        android:layout_width="match_parent"
-        android:layout_height="70dp"
-        android:id="@+id/imageView"
-        android:background="@drawable/toronto" />
-
     <LinearLayout
         android:orientation="vertical"
         android:layout_width="fill_parent"
@@ -38,6 +38,8 @@
             android:id="@+id/listViewMain"
             android:textAlignment="center"
             android:fadeScrollbars="false"
+            android:scrollbarThumbVertical="@drawable/scrollbar_vertical_thumb"
+            android:scrollbarTrackVertical="@drawable/scrollbar_vertical_track"
             android:layout_gravity="center_horizontal"
             android:clickable="false" />
     </LinearLayout>

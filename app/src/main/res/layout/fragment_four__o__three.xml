@@ -36,6 +36,8 @@
                     android:id="@+id/scrollView"
                     android:layout_weight="0.57"
                     android:fadeScrollbars="false"
+                    android:scrollbarThumbVertical="@drawable/scrollbar_vertical_thumb"
+                    android:scrollbarTrackVertical="@drawable/scrollbar_vertical_track"
                     android:background="@drawable/leftborder">
 
                     <LinearLayout
@@ -50,7 +52,7 @@
                             android:id="@+id/four03dundas"
                             android:clickable="true"
                             android:onClick="onButtonClick403"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                         <Button
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
@@ -58,7 +60,7 @@
                             android:id="@+id/four03winston"
                             android:clickable="true"
                             android:onClick="onButtonClick403"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                         <Button
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
@@ -66,7 +68,7 @@
                             android:id="@+id/four03erinmills"
                             android:clickable="true"
                             android:onClick="onButtonClick403"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                         <Button
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
@@ -74,7 +76,7 @@
                             android:id="@+id/four03creditview"
                             android:clickable="true"
                             android:onClick="onButtonClick403"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                         <Button
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
@@ -82,7 +84,7 @@
                             android:id="@+id/four03mavis"
                             android:clickable="true"
                             android:onClick="onButtonClick403"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                         <Button
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
@@ -90,7 +92,7 @@
                             android:id="@+id/four03hurontario"
                             android:clickable="true"
                             android:onClick="onButtonClick403"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                         <Button
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
@@ -98,7 +100,7 @@
                             android:id="@+id/four03centralpkwy"
                             android:clickable="true"
                             android:onClick="onButtonClick403"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                         <Button
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
@@ -106,7 +108,7 @@
                             android:id="@+id/four03eglinton"
                             android:clickable="true"
                             android:onClick="onButtonClick403"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                         <Button
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
@@ -114,7 +116,7 @@
                             android:id="@+id/four03matheson"
                             android:clickable="true"
                             android:onClick="onButtonClick403"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                     </LinearLayout>
                 </ScrollView>
 

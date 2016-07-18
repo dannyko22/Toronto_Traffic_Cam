@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="shepparddufferin">
+        <item>"43.750337"</item>
+        <item>"-79.463536"</item>
+    </string-array>
+    <string-array name="sheppardbathurst">
+        <item>"43.755608"</item>
+        <item>"-79.438757"</item>
+    </string-array>
+    <string-array name="sheppardyonge">
+        <item>"43.761562"</item>
+        <item>"-79.410926"</item>
+    </string-array>
+    <string-array name="sheppardbayview">
+        <item>"43.766676"</item>
+        <item>"-79.388041"</item>
+    </string-array>
+    <string-array name="sheppardleslie">
+        <item>"43.771673"</item>
+        <item>"-79.364137"</item>
+    </string-array>
+    <string-array name="shepparddonmills">
+        <item>"43.775113"</item>
+        <item>"-79.347121"</item>
+    </string-array>
+    <string-array name="sheppardvictoriapark">
+        <item>"43.775291"</item>
+        <item>"-79.323024"</item>
+    </string-array>
+    <string-array name="sheppardwarden">
+        <item>"43.778738"</item>
+        <item>"-79.307918"</item>
+    </string-array>
+    <string-array name="sheppardkennedy">
+        <item>"43.783324"</item>
+        <item>"-79.288252"</item>
+    </string-array>
+    <string-array name="sheppardmccowan">
+        <item>"43.789660"</item>
+        <item>"-79.258791"</item>
+    </string-array>
+    <string-array name="sheppardmarkham">
+        <item>"43.793927"</item>
+        <item>"-79.238782"</item>
+    </string-array>
+    <string-array name="sheppardmorningside">
+        <item>"43.796399"</item>
+        <item>"-79.196852"</item>
+    </string-array>
+
+
+</resources>

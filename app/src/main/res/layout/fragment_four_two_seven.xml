@@ -36,6 +36,8 @@
                     android:id="@+id/scrollView"
                     android:layout_weight="0.57"
                     android:fadeScrollbars="false"
+                    android:scrollbarThumbVertical="@drawable/scrollbar_vertical_thumb"
+                    android:scrollbarTrackVertical="@drawable/scrollbar_vertical_track"
                     android:background="@drawable/leftborder">
 
                     <LinearLayout
@@ -50,7 +52,7 @@
                             android:id="@+id/fourtwosevenrathburn"
                             android:clickable="true"
                             android:onClick="onButtonClick427"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                         <Button
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
@@ -58,7 +60,7 @@
                             android:id="@+id/fourtwosevenburnhamthorpe"
                             android:clickable="true"
                             android:onClick="onButtonClick427"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                         <Button
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
@@ -66,7 +68,7 @@
                             android:id="@+id/fourtwosevenqew"
                             android:clickable="true"
                             android:onClick="onButtonClick427"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                     </LinearLayout>
                 </ScrollView>
 

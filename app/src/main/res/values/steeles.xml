@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="steeleskeele">
+        <item>"43.781546"</item>
+        <item>"-79.494372"</item>
+    </string-array>
+    <string-array name="steelesdonmills">
+        <item>"43.811132"</item>
+        <item>"-79.360775"</item>
+    </string-array>
+    <string-array name="steeleswoodbine">
+        <item>"43.813966"</item>
+        <item>"-79.348566"</item>
+    </string-array>
+    <string-array name="steelesvictoriapark">
+        <item>"43.815630"</item>
+        <item>"-79.341281"</item>
+    </string-array>
+
+</resources>

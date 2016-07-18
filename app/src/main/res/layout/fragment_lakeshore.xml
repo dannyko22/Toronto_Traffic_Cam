@@ -26,6 +26,8 @@
                     android:id="@+id/scrollView"
                     android:layout_weight="0.57"
                     android:fadeScrollbars="false"
+                    android:scrollbarThumbVertical="@drawable/scrollbar_vertical_thumb"
+                    android:scrollbarTrackVertical="@drawable/scrollbar_vertical_track"
                     android:background="@drawable/leftborder">
 
                     <LinearLayout
@@ -40,7 +42,7 @@
                             android:id="@+id/lakeshoreparklawn"
                             android:clickable="true"
                             android:onClick="onButtonClickLakeshore"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                         <Button
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
@@ -48,7 +50,7 @@
                             android:id="@+id/lakeshoreellis"
                             android:clickable="true"
                             android:onClick="onButtonClickLakeshore"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                         <Button
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
@@ -56,7 +58,7 @@
                             android:id="@+id/lakeshorecolborne"
                             android:clickable="true"
                             android:onClick="onButtonClickLakeshore"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                         <Button
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
@@ -64,7 +66,7 @@
                             android:id="@+id/lakeshoreparkside"
                             android:clickable="true"
                             android:onClick="onButtonClickLakeshore"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                         <Button
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
@@ -72,7 +74,7 @@
                             android:id="@+id/lakeshorejameson"
                             android:clickable="true"
                             android:onClick="onButtonClickLakeshore"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                         <Button
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
@@ -80,7 +82,7 @@
                             android:id="@+id/lakeshoredunn"
                             android:clickable="true"
                             android:onClick="onButtonClickLakeshore"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                         <Button
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
@@ -88,7 +90,7 @@
                             android:id="@+id/lakeshorebritishcolumbia"
                             android:clickable="true"
                             android:onClick="onButtonClickLakeshore"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                         <Button
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
@@ -96,7 +98,7 @@
                             android:id="@+id/lakeshoreontario"
                             android:clickable="true"
                             android:onClick="onButtonClickLakeshore"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                         <Button
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
@@ -104,7 +106,7 @@
                             android:id="@+id/lakeshoreontarioplace"
                             android:clickable="true"
                             android:onClick="onButtonClickLakeshore"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                         <Button
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
@@ -112,7 +114,7 @@
                             android:id="@+id/lakeshoreremembrance"
                             android:clickable="true"
                             android:onClick="onButtonClickLakeshore"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                         <Button
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
@@ -120,7 +122,7 @@
                             android:id="@+id/lakeshorerees"
                             android:clickable="true"
                             android:onClick="onButtonClickLakeshore"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                         <Button
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
@@ -128,7 +130,7 @@
                             android:id="@+id/lakeshorebay"
                             android:clickable="true"
                             android:onClick="onButtonClickLakeshore"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                         <Button
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
@@ -136,7 +138,7 @@
                             android:id="@+id/lakeshoreyonge"
                             android:clickable="true"
                             android:onClick="onButtonClickLakeshore"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                         <Button
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
@@ -144,7 +146,7 @@
                             android:id="@+id/lakeshorejarvis"
                             android:clickable="true"
                             android:onClick="onButtonClickLakeshore"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                         <Button
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
@@ -152,7 +154,7 @@
                             android:id="@+id/lakeshoreparliament"
                             android:clickable="true"
                             android:onClick="onButtonClickLakeshore"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                         <Button
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
@@ -160,7 +162,7 @@
                             android:id="@+id/lakeshoredonroadway"
                             android:clickable="true"
                             android:onClick="onButtonClickLakeshore"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                         <Button
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
@@ -168,7 +170,7 @@
                             android:id="@+id/lakeshoreleslie"
                             android:clickable="true"
                             android:onClick="onButtonClickLakeshore"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
 
 
                     </LinearLayout>

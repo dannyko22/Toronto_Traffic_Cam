@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="allenlawrence">
+        <item>"43.716255"</item>
+        <item>"-79.444252"</item>
+    </string-array>
+    <string-array name="allenglengrove">
+        <item>"43.711238"</item>
+        <item>"-79.442256"</item>
+    </string-array>
+    <string-array name="allenviewmount">
+        <item>"43.707826"</item>
+        <item>"-79.440110"</item>
+    </string-array>
+    <string-array name="allenelmridge">
+        <item>"43.703010"</item>
+        <item>"-79.437514"</item>
+    </string-array>
+    <string-array name="alleneglinton">
+        <item>"43.698767"</item>
+        <item>"-79.435883"</item>
+    </string-array>
+
+</resources>

@@ -20,7 +20,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
 
-            android:text="\nChartered Professional Accountant (CPA) by day\n Coder by night.\n"
+            android:text="\nFinance guy by day\n Coder by night.\n"
             android:id="@+id/textView1"
 
             android:textColor="#000000"
@@ -40,8 +40,18 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
 
-            android:text="Suggestions? Comments?\nContact me at:\n\ndanny.ko@gmail.com\nDanny Ko"
+            android:text="Suggestions? Comments?\nContact me at:\n\ndanny.ko@gmail.com\nDanny Ko\n"
             android:id="@+id/textView2"
+
+
+            android:textColor="#000000"
+            android:gravity="center"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:text="Available for consulting/contract gigs."
+            android:id="@+id/textView3"
 
 
             android:textColor="#000000"

@@ -65,7 +65,7 @@ public class MainActivity extends ActionBarActivity  {
     private void populateListView()
     {
 
-        String[] streetItems = {"Traffic Map", "401", "404/DVP", "Gardiner Expy", "QEW", "400", "403", "427", "Hwy 7", "Lakeshore", "About: Danny Ko"};
+        String[] streetItems = {"Traffic Map", "401", "404/DVP", "Gardiner Expy", "QEW", "400", "403", "427", "Allen Rd", "Hwy 7", "Steeles", "Finch", "Sheppard", "Eglinton", "Bloor", "College", "Dundas", "Richmond", "Adelaide", "Front", "Lakeshore", "About: Danny Ko"};
         ArrayAdapter<String> streetAdapter = new ArrayAdapter<String>(this,R.layout.main_items, streetItems);
 
         ListView mainList = (ListView)findViewById(R.id.listViewMain);

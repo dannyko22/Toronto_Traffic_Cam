@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="finchdufferin">
+        <item>"43.768820"</item>
+        <item>"-79.466932"</item>
+    </string-array>
+    <string-array name="finchdonmills">
+        <item>"43.792703"</item>
+        <item>"-79.354799"</item>
+    </string-array>
+    <string-array name="finchvictoriapark">
+        <item>"43.793118"</item>
+        <item>"-79.331447"</item>
+    </string-array>
+
+</resources>

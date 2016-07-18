@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bloorislington">
+        <item>"43.644667"</item>
+        <item>"-79.523481"</item>
+    </string-array>
+    <string-array name="bloorjane">
+        <item>"43.649362"</item>
+        <item>"-79.484421"</item>
+    </string-array>
+    <string-array name="bloordufferin">
+        <item>"43.659880"</item>
+        <item>"-79.435304"</item>
+    </string-array>
+    <string-array name="bloorbathurst">
+        <item>"43.665073"</item>
+        <item>"-79.411154"</item>
+    </string-array>
+    <string-array name="bloorspadina">
+        <item>"43.666656"</item>
+        <item>"-79.403783"</item>
+    </string-array>
+    <string-array name="blooravenue">
+        <item>"43.668713"</item>
+        <item>"-79.394127"</item>
+    </string-array>
+    <string-array name="bloorbay">
+        <item>"43.669699"</item>
+        <item>"-79.389471"</item>
+    </string-array>
+    <string-array name="blooryonge">
+        <item>"43.670258"</item>
+        <item>"-79.386757"</item>
+    </string-array>
+    <string-array name="bloormtpleasant">
+        <item>"43.671810"</item>
+        <item>"-79.379365"</item>
+    </string-array>
+    <string-array name="bloorcastlefrank">
+        <item>"43.673680"</item>
+        <item>"-79.368357"</item>
+    </string-array>
+
+</resources>

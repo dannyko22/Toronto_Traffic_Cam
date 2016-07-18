@@ -43,21 +43,19 @@ public class GMapUtils  {
     public void setup(int mapid, GoogleMap mMap)
     {
         mMap.setTrafficEnabled(true);
-        mMap.setBuildingsEnabled(true);
 
         mapUISetting = mMap.getUiSettings();
         mapUISetting.setMyLocationButtonEnabled(true);
         mapUISetting.setTiltGesturesEnabled(false);
         mapUISetting.setRotateGesturesEnabled(false);
         mapUISetting.setCompassEnabled(true);
-
         mMap.setMyLocationEnabled(true);
 
-        final LatLng locationLatLngSetup = new LatLng(43.7746244,-79.4034245);
+        final LatLng locationLatLngSetup = new LatLng(43.714519, -79.400110);
 
         CameraPosition cameraPosition = new CameraPosition.Builder()
                 .target(locationLatLngSetup) // Sets the center of the map
-                .zoom(10)                   // Sets the zoom
+                .zoom(11)                   // Sets the zoom
                 .bearing(0) // Sets the orientation of the camera to north
                 .tilt(0)    // Sets the tilt of the camera to 0 degrees
                 .build();    // Creates a CameraPosition from the builder
@@ -71,7 +69,7 @@ public class GMapUtils  {
 
         CameraPosition cameraPosition = new CameraPosition.Builder()
                 .target(locationLatLng) // Sets the center of the map
-                .zoom(12)                   // Sets the zoom
+                .zoom(15)                   // Sets the zoom
                 .bearing(0) // Sets the orientation of the camera to north
                 .tilt(0)    // Sets the tilt of the camera to 0 degrees
                 .build();    // Creates a CameraPosition from the builder

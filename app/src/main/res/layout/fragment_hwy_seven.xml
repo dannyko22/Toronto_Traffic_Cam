@@ -37,6 +37,8 @@
                     android:id="@+id/scrollView"
                     android:layout_weight="0.57"
                     android:fadeScrollbars="false"
+                    android:scrollbarThumbVertical="@drawable/scrollbar_vertical_thumb"
+                    android:scrollbarTrackVertical="@drawable/scrollbar_vertical_track"
                     android:background="@drawable/leftborder">
 
                     <LinearLayout
@@ -51,7 +53,7 @@
                             android:id="@+id/hwy27onhwy7"
                             android:clickable="true"
                             android:onClick="onButtonClickHwySeven"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                         <Button
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
@@ -59,7 +61,7 @@
                             android:id="@+id/pinevalley"
                             android:clickable="true"
                             android:onClick="onButtonClickHwySeven"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                         <Button
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
@@ -67,7 +69,7 @@
                             android:id="@+id/westononhwy7"
                             android:clickable="true"
                             android:onClick="onButtonClickHwySeven"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                         <Button
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
@@ -75,7 +77,7 @@
                             android:id="@+id/janeonhwy7"
                             android:clickable="true"
                             android:onClick="onButtonClickHwySeven"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                         <Button
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
@@ -83,7 +85,7 @@
                             android:id="@+id/keeleonhwy7"
                             android:clickable="true"
                             android:onClick="onButtonClickHwySeven"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                         <Button
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
@@ -91,7 +93,7 @@
                             android:id="@+id/chalmersonhwy7"
                             android:clickable="true"
                             android:onClick="onButtonClickHwySeven"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                         <Button
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
@@ -99,7 +101,7 @@
                             android:id="@+id/valleymedeonhwy7"
                             android:clickable="true"
                             android:onClick="onButtonClickHwySeven"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                         <Button
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
@@ -107,7 +109,7 @@
                             android:id="@+id/westbeavercreekonhwy7"
                             android:clickable="true"
                             android:onClick="onButtonClickHwySeven"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                         <Button
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
@@ -115,7 +117,7 @@
                             android:id="@+id/leslieonhwy7"
                             android:clickable="true"
                             android:onClick="onButtonClickHwySeven"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                         <Button
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
@@ -123,7 +125,7 @@
                             android:id="@+id/eastbeavercreekonhwy7"
                             android:clickable="true"
                             android:onClick="onButtonClickHwySeven"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                         <Button
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
@@ -131,7 +133,7 @@
                             android:id="@+id/fourofouronhwy7"
                             android:clickable="true"
                             android:onClick="onButtonClickHwySeven"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                         <Button
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
@@ -139,7 +141,7 @@
                             android:id="@+id/southtowncentreonhwy7"
                             android:clickable="true"
                             android:onClick="onButtonClickHwySeven"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                         <Button
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
@@ -147,7 +149,7 @@
                             android:id="@+id/mccowanonhwy7"
                             android:clickable="true"
                             android:onClick="onButtonClickHwySeven"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                         <Button
                             android:layout_width="fill_parent"
                             android:layout_height="wrap_content"
@@ -155,7 +157,7 @@
                             android:id="@+id/ninthlineonhwy7"
                             android:clickable="true"
                             android:onClick="onButtonClickHwySeven"
-                            android:textColor="#ffffff" />
+                            android:textColor="#000000" />
                     </LinearLayout>
                 </ScrollView>
 

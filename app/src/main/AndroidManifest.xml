@@ -84,6 +84,61 @@
             android:screenOrientation="nosensor" >
         </activity>
         <activity
+            android:name="com.torontotraffic.app.Allen"
+            android:label="@string/title_activity_allen"
+            android:screenOrientation="nosensor" >
+        </activity>
+        <activity
+            android:name="com.torontotraffic.app.steeles"
+            android:label="@string/title_activity_steeles"
+            android:screenOrientation="nosensor" >
+        </activity>
+        <activity
+            android:name="com.torontotraffic.app.finch"
+            android:label="@string/title_activity_finch"
+            android:screenOrientation="nosensor" >
+        </activity>
+        <activity
+            android:name="com.torontotraffic.app.sheppard"
+            android:label="@string/title_activity_sheppard"
+            android:screenOrientation="nosensor" >
+        </activity>
+        <activity
+            android:name="com.torontotraffic.app.eglinton"
+            android:label="@string/title_activity_eglinton"
+            android:screenOrientation="nosensor" >
+        </activity>
+        <activity
+            android:name="com.torontotraffic.app.bloor"
+            android:label="@string/title_activity_bloor"
+            android:screenOrientation="nosensor" >
+        </activity>
+        <activity
+            android:name="com.torontotraffic.app.college"
+            android:label="@string/title_activity_college"
+            android:screenOrientation="nosensor" >
+        </activity>
+        <activity
+            android:name="com.torontotraffic.app.dundas"
+            android:label="@string/title_activity_dundas"
+            android:screenOrientation="nosensor" >
+        </activity>
+        <activity
+            android:name="com.torontotraffic.app.richmond"
+            android:label="@string/title_activity_richmond"
+            android:screenOrientation="nosensor" >
+        </activity>
+        <activity
+            android:name="com.torontotraffic.app.adelaide"
+            android:label="@string/title_activity_adelaide"
+            android:screenOrientation="nosensor" >
+        </activity>
+        <activity
+            android:name="com.torontotraffic.app.front"
+            android:label="@string/title_activity_front"
+            android:screenOrientation="nosensor" >
+        </activity>
+        <activity
             android:name="com.torontotraffic.app.lakeshore"
             android:label="@string/title_activity_lakeshore"
             android:screenOrientation="nosensor" >
