@@ -2,9 +2,11 @@ package com.torontotraffic.app;
 
 
 import android.Manifest;
+import android.content.ActivityNotFoundException;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.pm.PackageManager;
+import android.net.Uri;
 import android.os.Build;
 import android.support.v4.app.ActivityCompat;
 import android.support.v7.app.ActionBarActivity;
@@ -49,10 +51,9 @@ public class MainActivity extends ActionBarActivity  {
     protected void onPostCreate(Bundle savedInstanceState){
         super.onPostCreate(savedInstanceState);
 
-        isStoragePermissionGranted();
+//        isStoragePermissionGranted();
         isLocationPermissionGranted();
-        isInternetPermissionGranted();
-        //initializeAds();
+        initializeAds();
 
         populateListView();
 
@@ -69,7 +70,7 @@ public class MainActivity extends ActionBarActivity  {
     private void populateListView()
     {
 
-        String[] streetItems = {"Traffic Map", "401", "404/DVP", "Gardiner Expy", "QEW", "400", "403", "427", "Allen Rd", "Hwy 7", "Steeles", "Finch", "Sheppard", "Eglinton", "Bloor", "College", "Dundas", "Richmond", "Adelaide", "Front", "Lakeshore", "About: Danny Ko"};
+        String[] streetItems = {"Traffic Map", "401", "404/DVP", "Gardiner Expy", "QEW", "400", "403", "427", "Allen Rd", "Hwy 7", "Steeles", "Finch", "Sheppard", "Eglinton", "Bloor", "College", "Dundas", "Richmond", "Adelaide", "Front", "Lakeshore", "Rate Me", "About: Danny Ko"};
         ArrayAdapter<String> streetAdapter = new ArrayAdapter<String>(this,R.layout.main_items, streetItems);
 
         ListView mainList = (ListView)findViewById(R.id.listViewMain);
@@ -122,6 +123,16 @@ public class MainActivity extends ActionBarActivity  {
 
         if (id == R.id.action_settings) {
             aboutMenuItem();
+        } else {
+            try {
+                Uri uri = Uri.parse("market://details?id=com.torontotraffic.app");
+                Intent goToMarket = new Intent(Intent.ACTION_VIEW, uri);
+                startActivity(goToMarket);
+            } catch (ActivityNotFoundException e) {
+                startActivity(new Intent(Intent.ACTION_VIEW,
+                        Uri.parse("https://play.google.com/store/apps/details?id=com.torontotraffic.app"
+                        )));
+            }
         }
 
         return super.onOptionsItemSelected(item);
@@ -133,23 +144,6 @@ public class MainActivity extends ActionBarActivity  {
 
     }
 
-
-    public  boolean isStoragePermissionGranted() {
-        if (Build.VERSION.SDK_INT >= 23) {
-            if (checkSelfPermission(Manifest.permission_group.STORAGE)
-                    == PackageManager.PERMISSION_GRANTED) {
-                return true;
-            } else {
-                //requestPermissions(new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE}, 1);
-                ActivityCompat.requestPermissions(this, new String[]{Manifest.permission_group.STORAGE}, 1);
-                return false;
-            }
-        }
-        else { //permission is automatically granted on sdk<23 upon installation
-
-            return true;
-        }
-    }
 
     public  boolean isLocationPermissionGranted() {
         if (Build.VERSION.SDK_INT >= 23) {
@@ -169,22 +163,6 @@ public class MainActivity extends ActionBarActivity  {
         }
     }
 
-    public  boolean isInternetPermissionGranted() {
-        if (Build.VERSION.SDK_INT >= 23) {
-            if (checkSelfPermission(Manifest.permission.INTERNET)
-                    == PackageManager.PERMISSION_GRANTED) {
-                return true;
-            } else {
-                        //requestPermissions(new String[]{Manifest.permission.INTERNET, Manifest.permission.ACCESS_NETWORK_STATE}, 123);
-                        ActivityCompat.requestPermissions(this, new String[]{Manifest.permission.INTERNET}, 1);
-            }
-                return false;
-            }
-        else { //permission is automatically granted on sdk<23 upon installation
-
-            return true;
-        }
-    }
 
     private void showMessageOKCancel(String message, DialogInterface.OnClickListener okListener) {
         new AlertDialog.Builder(MainActivity.this)

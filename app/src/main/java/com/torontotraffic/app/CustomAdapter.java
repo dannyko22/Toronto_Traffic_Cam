@@ -3,8 +3,10 @@ package com.torontotraffic.app;
 /**
  * Created by Danny on 18/02/14.
  */
+import android.content.ActivityNotFoundException;
 import android.content.Context;
 import android.content.Intent;
+import android.net.Uri;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -134,6 +136,17 @@ public class CustomAdapter extends BaseAdapter{
                         context.startActivity(new Intent(context,lakeshore.class));
                         break;
                     case 21:
+                        try {
+                            Uri uri = Uri.parse("market://details?id=com.torontotraffic.app");
+                            Intent goToMarket = new Intent(Intent.ACTION_VIEW, uri);
+                            context.startActivity(goToMarket);
+                        } catch (ActivityNotFoundException e) {
+                            context.startActivity(new Intent(Intent.ACTION_VIEW,
+                                    Uri.parse("https://play.google.com/store/apps/details?id=com.torontotraffic.app"
+                                            )));
+                        }
+                        break;
+                    case 22:
                         context.startActivity(new Intent(context,aboutme.class));
                         break;
                     default:

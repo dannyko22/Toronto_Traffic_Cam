@@ -7,4 +7,8 @@
         android:title="@string/action_settings"
         android:orderInCategory="100"
         app:showAsAction="never" />
+    <item android:id="@+id/action_rateme"
+        android:title="Rate Me"
+        android:orderInCategory="101"
+        app:showAsAction="never" />
 </menu>

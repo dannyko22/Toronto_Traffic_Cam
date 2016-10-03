@@ -439,7 +439,7 @@
         jumboMode="true"
         optimize="true"
         revision="21.1.2"
-        sha1="df93b6aa7822910c02fd7301edbe1803b670ccbc">
+        sha1="926e097c5ed0aee91a34ad20026133ad5ed75d93">
         <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4f9db1130bbe0e1ecfb9b3c11951236c7d24e158\classes.dex" />
     </item>
     <item
@@ -529,7 +529,7 @@
         jumboMode="true"
         optimize="true"
         revision="21.1.2"
-        sha1="952685f40a82d1886747d566f9830a3cad322c79">
+        sha1="7bc4b7f163dade8fca5861c577616bfb000f0d18">
         <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d5b96ce454ca3125905391f6cbaaa2a0b851d735\classes.dex" />
     </item>
     <item
