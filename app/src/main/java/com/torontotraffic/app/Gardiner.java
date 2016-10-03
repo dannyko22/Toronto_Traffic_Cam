@@ -18,6 +18,8 @@ import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.MapFragment;
 import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.model.LatLng;
+import com.squareup.picasso.MemoryPolicy;
+import com.squareup.picasso.NetworkPolicy;
 import com.squareup.picasso.Picasso;
 
 
@@ -318,7 +320,9 @@ public class Gardiner extends ActionBarActivity implements TabHost.OnTabChangeLi
         // url - image url to load
         // loader - loader image, will be displayed before getting image
         // image - ImageView
-        Picasso.with(this).load(image_url).into(image);
+        Picasso.with(this).invalidate(image_url);
+        Picasso.with(this).load(image_url).memoryPolicy(MemoryPolicy.NO_CACHE, MemoryPolicy.NO_STORE).networkPolicy(NetworkPolicy.NO_CACHE, NetworkPolicy.NO_STORE).into(image);
+
 
 
 

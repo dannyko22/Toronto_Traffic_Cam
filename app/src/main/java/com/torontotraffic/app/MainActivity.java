@@ -52,7 +52,7 @@ public class MainActivity extends ActionBarActivity  {
         super.onPostCreate(savedInstanceState);
 
         isLocationPermissionGranted();
-        //initializeAds();
+        initializeAds();
 
         populateListView();
 

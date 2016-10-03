@@ -3,24 +3,6 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="ee0ccb43f6ab276191b7f2d77c305fa9beb26db9">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.6.1_2c61969e06a994efd2e41437a39147527287345b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="4a36600281a648769411ef642c331851732bf29e">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.6.1_98bcc3f453fd27837e75a637cb5ecfe45a52e5e6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.6.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -38,15 +20,6 @@
         <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-9.6.1_5480c0aadea0954ab9d25b87bd95693a51246136\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-24.2.1_2f4389287b4804706f1054370a64f4be9f207e3f.jar" />
-    </item>
-    <item
         is-multidex="true"
         jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.6.1\jars\classes.jar"
         jumboMode="true"
@@ -56,33 +29,6 @@
         <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.6.1_e68bea8765d04387b5526461bcf820e197aab2a8\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_cec38e87d1ae60b6328391cf8be5c42d48f35aef.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-maps-9.6.1_37edd82e9b80624465a70ad4cff035ea54bb548a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="465f40f840e583f8b7421a3aacf3fbf08c28f00a">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-auth-base-9.6.1_39700bceb1fe45caf954b9f906b889e05036cc22.jar" />
-    </item>
-    <item
         is-multidex="true"
         jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.6.1\jars\classes.jar"
         jumboMode="true"
@@ -90,24 +36,6 @@
         revision="21.1.2"
         sha1="cc39b4bcc9e7062891db90d5a752fa9e4986f447">
         <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.6.1_eae691f78c1fbbe690c2863a592e3cb96c1120e9\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.0\7ff0e000d1e27e356567f56c92af3b8ab912636f\picasso-2.5.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\picasso-2.5.0_37ce42bce49be05f0e6dfbc91b47d22f2d72c532.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="0e0e0681c26a1f575d3e4c542182dd59bab75fd6">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-appinvite-9.6.1_70929f8615baf800d25e061b6c8059a4590360fc.jar" />
     </item>
     <item
         is-multidex="true"
@@ -128,33 +56,6 @@
         <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_1e074624b65a84b5d10bf564212d418ac8bfe8e0\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-24.2.1_6e2d3ba247faad29c9290a5a2acd6005f2207467.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="babb25794a7599069d34705038744c5760a9a88c">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-9.6.1_16728976c85fca7636971259ad282ce8d8b2415b\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-auth-module-9.6.1_462ff0927f292611d4a01b159ef5d7454222762b.jar" />
-    </item>
-    <item
         is-multidex="true"
         jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.6.1\jars\classes.jar"
         jumboMode="true"
@@ -162,15 +63,6 @@
         revision="21.1.2"
         sha1="518adc52081d41724932b41bc132e4d50a352b86">
         <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.6.1_8e18073e362ca22d6e83e60291b8f362d005fae8\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.6.1_667ce24b781412656bbac640a09eea519e00b538\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -183,42 +75,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.6.1_9c683857e639c225a7961cd32e87e21c4c15ab84\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-messaging-9.6.1_7ece8694ab964a16a273cd7f7d0bc0238f11c470.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="c828add497d2b7a3de7c047bf72050cd4b7521a1">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-safetynet-9.6.1_99813c9b6da81035554e56d256e2781e52dcb259.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\internal_impl-24.0.0_f2dbcfa88ab325a00f2190b6e9ed76943aca3a25.jar" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.6.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -228,120 +84,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_7918a3cf800c723de9f41140d789b08e1c0837c1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.6.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="21.1.2"
         sha1="cdddf21e0a8205e9955661061d1735ed10e44a7b">
         <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.6.1_0f51febef351edfb7837341a84bfb1896755de4f\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-storage-common-9.6.1_7bd54b6d93f2b9bf2c5d92efd44aeaf88fb683af.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\support-annotations-24.2.1_10cd953c940accdea77ebb67004f63b8f836c70e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-database-9.6.1_20c64aa6eaacc13e9627be5a4b098ea5e348d1d8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_a362402ec1f702320c43d50c22d09db72f2c2a95.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="a76a6983a23788b3689524d4bed763955afbd306">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.6.1_5c3dcf5e7a754c4f042d7a7e343fc39479703ab5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="0dfc12e4aacf514346ea866560c99807d032bc48">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.6.1_8e2f9d6d7db8f6fe0c3ff8c3febe2d2914fbb00b\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="f8db47be01cbe8cfa81e9cecce5ff1371ed1ad95">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-drive-9.6.1_8c5680ba42cbc0554fa1def2f0ffc8381b5105bf.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_85062c935c51b44c61aa57096c3b14a2b3206fbe\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="ee0ccb43f6ab276191b7f2d77c305fa9beb26db9">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-clearcut-9.6.1_2c61969e06a994efd2e41437a39147527287345b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="d45c048bb1c55cf963899190e507065aea8e5be9">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-games-9.6.1_0aad01aafd6ad9e56cd1a88df230ef7fa6ea2368.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="f0e96478ca3147bc588aadb9ae467d85b42473cc">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.6.1_c4df30d30fc92fd5e1ec860cc1e6313751d8795c\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -354,30 +102,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.6.1_462ff0927f292611d4a01b159ef5d7454222762b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.6.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="21.1.2"
         sha1="dfcba20b85ef3669a8ced0a8760a6df281cbd7c7">
         <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.6.1_4eacaac5be449c63ad10ed25f6df1925e351bf6a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="9c0cf3d4f9d7d076f301e110b92e18ae23da12c2">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.6.1_add4a79f61e2a73d3abea9712586cb5bc6da8843\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -389,15 +119,6 @@
         <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.6.1_2790d5e78274c2ec001758bf47c676abca7719f5\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="cc39b4bcc9e7062891db90d5a752fa9e4986f447">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-appindexing-9.6.1_eae691f78c1fbbe690c2863a592e3cb96c1120e9.jar" />
-    </item>
-    <item
         is-multidex="true"
         jar="C:\Users\Danny\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.0\7ff0e000d1e27e356567f56c92af3b8ab912636f\picasso-2.5.0.jar"
         jumboMode="true"
@@ -407,51 +128,6 @@
         <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.0_37ce42bce49be05f0e6dfbc91b47d22f2d72c532\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-24.2.1_621598433c44ad74bba33845344b9a46f3006a09.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="8ebae43cd06058e99e08c8b4d305b72f2b9927c6">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.6.1_9660cab7411a34845934aab6fc2cb5b39d4dd3b7\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-basement-9.6.1_07aa8809a9968dd0758aa8750fe0f0811907ca4d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-auth-common-9.6.1_c2e1680724e2796ca61d4671aa1cac8d94e10ecc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-analytics-9.6.1_0068d80b3671e8f51d8425f091cb5298b4aa0ed9.jar" />
-    </item>
-    <item
         is-multidex="true"
         jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.6.1\jars\classes.jar"
         jumboMode="true"
@@ -459,33 +135,6 @@
         revision="21.1.2"
         sha1="a53ac0560ab915a02c50d2e5c7b003381e6fb5e3">
         <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.6.1_c30e2815c7c4053355b6b9f0f41d0a81f6f46228\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-auth-9.6.1_046986be83bd76a72318c7b884fa46388addf0f8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="526f4b02f1771fa7607ff1b89fe2e9bd0344fee8">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-analytics-9.6.1_fdfc5149ee020db82a33b3b7d6c145492cdd7d88.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="ee61ace5f3e488fc610e1c67693c49186a441f32">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-gass-9.6.1_12abdd5e7531eacafaf5cc4f69507c0500847427.jar" />
     </item>
     <item
         is-multidex="true"
@@ -506,33 +155,6 @@
         <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.6.1_7bd54b6d93f2b9bf2c5d92efd44aeaf88fb683af\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_a36655904fe84ca933bc6126d76115d86c536e39.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="6ff796a3173787afe2e712f3aec6f5b99796118e">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-ads-lite-9.6.1_16f3611ffcb7c213f38d6a3400f76505fec424be.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_837444db88ca447d58c52531d434f81350927e87\classes.dex" />
-    </item>
-    <item
         is-multidex="true"
         jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.6.1\jars\classes.jar"
         jumboMode="true"
@@ -540,42 +162,6 @@
         revision="21.1.2"
         sha1="c828add497d2b7a3de7c047bf72050cd4b7521a1">
         <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.6.1_99813c9b6da81035554e56d256e2781e52dcb259\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a362402ec1f702320c43d50c22d09db72f2c2a95\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-common-9.6.1_ffc8a6cea517b2b0423010cfea58d264a4d150f5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-24.2.1_85062c935c51b44c61aa57096c3b14a2b3206fbe.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-iid-9.6.1_2790d5e78274c2ec001758bf47c676abca7719f5.jar" />
     </item>
     <item
         is-multidex="true"
@@ -587,24 +173,6 @@
         <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.6.1_ba26300672acaed2e83799c7f2308c4d62d71ea3\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="f0e96478ca3147bc588aadb9ae467d85b42473cc">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-tagmanager-api-9.6.1_c4df30d30fc92fd5e1ec860cc1e6313751d8795c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-24.2.1_f8fdcebf046223d43172b50cbaefba1b79905086.jar" />
-    </item>
-    <item
         is-multidex="true"
         jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.6.1\jars\classes.jar"
         jumboMode="true"
@@ -612,33 +180,6 @@
         revision="21.1.2"
         sha1="ad7706f8bb4a985656a8d2142f74021c8b0e03d8">
         <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.6.1_df7ebe78899353794367f802fa9de72662fcdc76\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="9c0cf3d4f9d7d076f301e110b92e18ae23da12c2">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-cast-framework-9.6.1_add4a79f61e2a73d3abea9712586cb5bc6da8843.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="f6aa7c76cbaa867e05dbad0afab1ef0e65c4e55f">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-nearby-9.6.1_a57ff9b01bc5d76c6d6c61bd2945867f514e003c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="dfcba20b85ef3669a8ced0a8760a6df281cbd7c7">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-wallet-9.6.1_4eacaac5be449c63ad10ed25f6df1925e351bf6a.jar" />
     </item>
     <item
         is-multidex="true"
@@ -659,33 +200,6 @@
         <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_078f17823856e8aedefe1b809f2c40cd4b2cbe47\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.android.support-mediarouter-v7-24.0.0_6ef546b3b22bfc9289a129f0705e34d5fda8e229.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="4df40545c9b875855f3dd9d4928e5d07f07c20ba">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-crash-9.6.1_2c04c50c82f27fbb6fc177740e12147a61ae339b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-24.2.1_0612411b330a892a18154dd42d4048660418a5f6.jar" />
-    </item>
-    <item
         is-multidex="true"
         jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.6.1\jars\classes.jar"
         jumboMode="true"
@@ -693,15 +207,6 @@
         revision="21.1.2"
         sha1="cf2c4e6607c77b0e671dc5ca252c5ea0d9c1ce0d">
         <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.6.1_2509105fba916883ba8cbc6fe5e4e5ae8274d1fb\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-24.2.1_152a2adb471c99cde3d6e6451ed1e3dbb6c87d09.jar" />
     </item>
     <item
         is-multidex="true"
@@ -714,120 +219,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="4df40545c9b875855f3dd9d4928e5d07f07c20ba">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.6.1_2c04c50c82f27fbb6fc177740e12147a61ae339b\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="8ebae43cd06058e99e08c8b4d305b72f2b9927c6">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-plus-9.6.1_9660cab7411a34845934aab6fc2cb5b39d4dd3b7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_837444db88ca447d58c52531d434f81350927e87.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.6.1_0068d80b3671e8f51d8425f091cb5298b4aa0ed9\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-base-9.6.1_7c3699683426e6900b30879da49e8dca1fa0c926.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.6.1_07aa8809a9968dd0758aa8750fe0f0811907ca4d\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="a53ac0560ab915a02c50d2e5c7b003381e6fb5e3">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-analytics-impl-9.6.1_c30e2815c7c4053355b6b9f0f41d0a81f6f46228.jar" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.6.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="21.1.2"
         sha1="ac8365c87591065db07f7bac8551504504832cd4">
         <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.6.1_2ed22ac29b24ba906cacf622f34c5cd7d0d5adc8\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="47bbb3ec4b31ba71e125241c090dabe70cbb4de7">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-ads-9.6.1_e0a0ee797a1ed2af622f293907151615b6e6e198.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="ee61ace5f3e488fc610e1c67693c49186a441f32">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.6.1_12abdd5e7531eacafaf5cc4f69507c0500847427\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="ad7706f8bb4a985656a8d2142f74021c8b0e03d8">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-gcm-9.6.1_df7ebe78899353794367f802fa9de72662fcdc76.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="c4394d46152165cd3256fb711ac94f66a28fbae1">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.6.1_029f544a0c8ad109592d3a777a607a47a01ba873\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.6.1_398742086590d510269f2e31ba1dbf2e985d02bc\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -849,111 +246,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="6ff796a3173787afe2e712f3aec6f5b99796118e">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.6.1_16f3611ffcb7c213f38d6a3400f76505fec424be\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-location-9.6.1_1f956c16fa6ef7274e49f8638757e710f4401b1e.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="926e097c5ed0aee91a34ad20026133ad5ed75d93">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4f9db1130bbe0e1ecfb9b3c11951236c7d24e158\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="526f4b02f1771fa7607ff1b89fe2e9bd0344fee8">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.6.1_fdfc5149ee020db82a33b3b7d6c145492cdd7d88\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.6.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="21.1.2"
         sha1="2a18547ea91d258866d132c2a763185f15b01b25">
         <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.6.1_046986be83bd76a72318c7b884fa46388addf0f8\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="cf2c4e6607c77b0e671dc5ca252c5ea0d9c1ce0d">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-config-9.6.1_2509105fba916883ba8cbc6fe5e4e5ae8274d1fb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="90be14317e3f26d18438e8dbf8544500d1dfe07f">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-awareness-9.6.1_5480c0aadea0954ab9d25b87bd95693a51246136.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="babb25794a7599069d34705038744c5760a9a88c">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-instantapps-9.6.1_16728976c85fca7636971259ad282ce8d8b2415b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="ff9be0a1e75a21c372735930d8987a55b5e6065f">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-panorama-9.6.1_e68bea8765d04387b5526461bcf820e197aab2a8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="1810ae0df0a1b9b539ce97df54e96f2bf8f5ff94">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-tagmanager-9.6.1_ba26300672acaed2e83799c7f2308c4d62d71ea3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="4a36600281a648769411ef642c331851732bf29e">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-tasks-9.6.1_98bcc3f453fd27837e75a637cb5ecfe45a52e5e6.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_cec38e87d1ae60b6328391cf8be5c42d48f35aef\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -963,15 +261,6 @@
         revision="21.1.2"
         sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
         <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.6.1_ffc8a6cea517b2b0423010cfea58d264a4d150f5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.6.1_37edd82e9b80624465a70ad4cff035ea54bb548a\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -993,30 +282,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_2f4389287b4804706f1054370a64f4be9f207e3f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.6.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="21.1.2"
         sha1="465f40f840e583f8b7421a3aacf3fbf08c28f00a">
         <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.6.1_39700bceb1fe45caf954b9f906b889e05036cc22\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="7bc4b7f163dade8fca5861c577616bfb000f0d18">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d5b96ce454ca3125905391f6cbaaa2a0b851d735\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -1046,15 +317,6 @@
         <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_0612411b330a892a18154dd42d4048660418a5f6\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="a136366045678579300d161de97c2211c4c4f7a0">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-cast-9.6.1_0237410a86eb6d8c29d2ae0ceae9249f37f91271.jar" />
-    </item>
-    <item
         is-multidex="true"
         jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.6.1\jars\classes.jar"
         jumboMode="true"
@@ -1073,15 +335,6 @@
         <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_152a2adb471c99cde3d6e6451ed1e3dbb6c87d09\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\internal_impl-24.2.1_078f17823856e8aedefe1b809f2c40cd4b2cbe47.jar" />
-    </item>
-    <item
         is-multidex="true"
         jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
         jumboMode="true"
@@ -1092,147 +345,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_6ef546b3b22bfc9289a129f0705e34d5fda8e229\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-analytics-impl-9.6.1_9c683857e639c225a7961cd32e87e21c4c15ab84.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-storage-9.6.1_667ce24b781412656bbac640a09eea519e00b538.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.android.support-palette-v7-24.0.0_c2440b3145b10259121e6e08b05bbca2df3f2999.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="c4394d46152165cd3256fb711ac94f66a28fbae1">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-wearable-9.6.1_029f544a0c8ad109592d3a777a607a47a01ba873.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="518adc52081d41724932b41bc132e4d50a352b86">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-identity-9.6.1_8e18073e362ca22d6e83e60291b8f362d005fae8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="a76a6983a23788b3689524d4bed763955afbd306">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-fitness-9.6.1_5c3dcf5e7a754c4f042d7a7e343fc39479703ab5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-auth-9.6.1_398742086590d510269f2e31ba1dbf2e985d02bc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="0cae6511c5705869cacf199f8abb0ea84cd10157">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-vision-9.6.1_82991b3a20aa62b7f237c8c40e0bfed37ddad8f2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="ac8365c87591065db07f7bac8551504504832cd4">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.firebase-firebase-database-connection-9.6.1_2ed22ac29b24ba906cacf622f34c5cd7d0d5adc8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-24.2.1_df114db9dae7baa0a5379ef8c3bbbec2c4ff2386.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="0dfc12e4aacf514346ea866560c99807d032bc48">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-iid-9.6.1_8e2f9d6d7db8f6fe0c3ff8c3febe2d2914fbb00b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-24.2.1_7918a3cf800c723de9f41140d789b08e1c0837c1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="cdddf21e0a8205e9955661061d1735ed10e44a7b">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-places-9.6.1_0f51febef351edfb7837341a84bfb1896755de4f.jar" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="21.1.2"
         sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
         <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.6.1_7c3699683426e6900b30879da49e8dca1fa0c926\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="21.1.2"
-        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
-        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.6.1_1f956c16fa6ef7274e49f8638757e710f4401b1e\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -1251,6 +369,276 @@
         revision="21.1.2"
         sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
         <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.6.1_20c64aa6eaacc13e9627be5a4b098ea5e348d1d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ee0ccb43f6ab276191b7f2d77c305fa9beb26db9">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.6.1_2c61969e06a994efd2e41437a39147527287345b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.6.1_98bcc3f453fd27837e75a637cb5ecfe45a52e5e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="babb25794a7599069d34705038744c5760a9a88c">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-9.6.1_16728976c85fca7636971259ad282ce8d8b2415b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.6.1_667ce24b781412656bbac640a09eea519e00b538\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.6.1_9c683857e639c225a7961cd32e87e21c4c15ab84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_7918a3cf800c723de9f41140d789b08e1c0837c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a76a6983a23788b3689524d4bed763955afbd306">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.6.1_5c3dcf5e7a754c4f042d7a7e343fc39479703ab5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="0dfc12e4aacf514346ea866560c99807d032bc48">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.6.1_8e2f9d6d7db8f6fe0c3ff8c3febe2d2914fbb00b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_85062c935c51b44c61aa57096c3b14a2b3206fbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="f0e96478ca3147bc588aadb9ae467d85b42473cc">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.6.1_c4df30d30fc92fd5e1ec860cc1e6313751d8795c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.6.1_462ff0927f292611d4a01b159ef5d7454222762b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9c0cf3d4f9d7d076f301e110b92e18ae23da12c2">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.6.1_add4a79f61e2a73d3abea9712586cb5bc6da8843\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="8ebae43cd06058e99e08c8b4d305b72f2b9927c6">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.6.1_9660cab7411a34845934aab6fc2cb5b39d4dd3b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_837444db88ca447d58c52531d434f81350927e87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a362402ec1f702320c43d50c22d09db72f2c2a95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4df40545c9b875855f3dd9d4928e5d07f07c20ba">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.6.1_2c04c50c82f27fbb6fc177740e12147a61ae339b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.6.1_0068d80b3671e8f51d8425f091cb5298b4aa0ed9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.6.1_07aa8809a9968dd0758aa8750fe0f0811907ca4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ee61ace5f3e488fc610e1c67693c49186a441f32">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.6.1_12abdd5e7531eacafaf5cc4f69507c0500847427\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="c4394d46152165cd3256fb711ac94f66a28fbae1">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.6.1_029f544a0c8ad109592d3a777a607a47a01ba873\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.6.1_398742086590d510269f2e31ba1dbf2e985d02bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="6ff796a3173787afe2e712f3aec6f5b99796118e">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.6.1_16f3611ffcb7c213f38d6a3400f76505fec424be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="8d6ea69884c6fdb8838fe3d10bf08952b73049a4">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4f9db1130bbe0e1ecfb9b3c11951236c7d24e158\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="526f4b02f1771fa7607ff1b89fe2e9bd0344fee8">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.6.1_fdfc5149ee020db82a33b3b7d6c145492cdd7d88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_cec38e87d1ae60b6328391cf8be5c42d48f35aef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.6.1_37edd82e9b80624465a70ad4cff035ea54bb548a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_2f4389287b4804706f1054370a64f4be9f207e3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ff7f2dd8fd363fb57ab4146fa450f637d2f63bdd">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d5b96ce454ca3125905391f6cbaaa2a0b851d735\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_6ef546b3b22bfc9289a129f0705e34d5fda8e229\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\TorontoTrafficCam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.6.1_1f956c16fa6ef7274e49f8638757e710f4401b1e\classes.dex" />
     </item>
 
 </items>
