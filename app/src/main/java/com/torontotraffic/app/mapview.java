@@ -15,9 +15,10 @@ import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.MapFragment;
+import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.model.LatLng;
 
-public class mapview extends ActionBarActivity {
+public class mapview extends ActionBarActivity implements OnMapReadyCallback {
 
 
     private LatLng locationLatLng;
@@ -32,14 +33,23 @@ public class mapview extends ActionBarActivity {
         setContentView(R.layout.fragment_mapview);
 
         mapId = R.id.mainmapView;
-        mainMap = ((MapFragment) getFragmentManager().findFragmentById(mapId)).getMap();
+        //mainMap = ((MapFragment) getFragmentManager().findFragmentById(mapId)).getMap();
+        MapFragment mapFragment = (MapFragment) getFragmentManager()
+                .findFragmentById(mapId);
+        mapFragment.getMapAsync(this);
 
-        mapUtils.setup(mapId, mainMap);
+
 
         AdView mAdView = (AdView) findViewById(R.id.adViewMap);
         AdRequest adRequest = new AdRequest.Builder().build();
         mAdView.loadAd(adRequest);
 
+    }
+
+    @Override
+    public void onMapReady(GoogleMap googleMap) {
+        mainMap = googleMap;
+        mapUtils.setup(mapId, mainMap);
     }
 }
 

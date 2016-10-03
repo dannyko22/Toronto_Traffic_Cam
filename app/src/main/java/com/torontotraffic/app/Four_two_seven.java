@@ -14,10 +14,12 @@ import android.widget.TextView;
 
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.MapFragment;
+import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.model.LatLng;
+import com.squareup.picasso.Picasso;
 
 
-public class Four_two_seven extends ActionBarActivity implements TabHost.OnTabChangeListener {
+public class Four_two_seven extends ActionBarActivity implements TabHost.OnTabChangeListener, OnMapReadyCallback {
 
 
     private LatLng locationLatLng;
@@ -65,9 +67,13 @@ public class Four_two_seven extends ActionBarActivity implements TabHost.OnTabCh
         tabHost.addTab(tab2);
 
         mapId = R.id.mapView;
-        mMap = ((MapFragment) getFragmentManager().findFragmentById(mapId)).getMap();
+        //mMap = ((MapFragment) getFragmentManager().findFragmentById(mapId)).getMap();
+        MapFragment mapFragment = (MapFragment) getFragmentManager()
+                .findFragmentById(mapId);
+        mapFragment.getMapAsync(this);
 
-        mapUtils.setup(mapId, mMap);
+
+
 
 //        MMSDK.initialize(this);
 //        MMAdView adView = (MMAdView) findViewById(R.id.adView);
@@ -163,16 +169,20 @@ public class Four_two_seven extends ActionBarActivity implements TabHost.OnTabCh
         // url - image url to load
         // loader - loader image, will be displayed before getting image
         // image - ImageView
-        imgLoader.DisplayImage(image_url, loader, image);
-        imgLoader.DisplayImage(top_image,loader,topimage);
-        imgLoader.DisplayImage(bottom_image,loader,bottomimage);
+        Picasso.with(this).load(image_url).into(image);
+        Picasso.with(this).load(bottom_image).into(bottomimage);
+        Picasso.with(this).load(top_image).into(topimage);
         top_textboxview.setText(top_textbox);
         bottom_textboxview.setText(bottom_textbox);
 
         mapUtils.setlocation(locationLatLng, mMap);
     }
 
-
+    @Override
+    public void onMapReady(GoogleMap googleMap) {
+        mMap = googleMap;
+        mapUtils.setup(mapId, mMap);
+    }
 
 
     @Override
