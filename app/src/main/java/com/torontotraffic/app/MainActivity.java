@@ -51,9 +51,8 @@ public class MainActivity extends ActionBarActivity  {
     protected void onPostCreate(Bundle savedInstanceState){
         super.onPostCreate(savedInstanceState);
 
-//        isStoragePermissionGranted();
         isLocationPermissionGranted();
-        initializeAds();
+        //initializeAds();
 
         populateListView();
 
