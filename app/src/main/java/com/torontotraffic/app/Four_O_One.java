@@ -94,18 +94,6 @@ public class Four_O_One extends ActionBarActivity implements OnTabChangeListener
 
 
 
-//        MMSDK.initialize(this);
-//        MMAdView adView = (MMAdView) findViewById(R.id.adView);
-//
-//        //Replace YOUR_APID with the APID provided to you by Millennial Media
-//        adView.setApid("152783");
-//
-//        //Set your metadata in the MMRequest object
-//        MMRequest request = new MMRequest();
-//
-//        //Add the MMRequest object to your MMAdView.
-//        adView.setMMRequest(request);
-//        adView.getAd();
 
     }
 

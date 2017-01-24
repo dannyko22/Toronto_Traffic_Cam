@@ -16,18 +16,27 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.InterstitialAd;
+
 import static android.support.v4.app.ActivityCompat.startActivity;
+import static java.lang.Thread.sleep;
 
 public class CustomAdapter extends BaseAdapter{
     String [] result;
     Context context;
     int [] imageId;
+    InterstitialAd interstitialAd;
+
+
     private static LayoutInflater inflater=null;
-    public CustomAdapter(MainActivity mainActivity, String[] prgmNameList, int[] prgmImages) {
+    public CustomAdapter(MainActivity mainActivity, String[] prgmNameList, int[] prgmImages, InterstitialAd _interstitialAd) {
         // TODO Auto-generated constructor stub
         result=prgmNameList;
         context=mainActivity;
         imageId=prgmImages;
+        interstitialAd = _interstitialAd;
+
         inflater = ( LayoutInflater )context.
                 getSystemService(Context.LAYOUT_INFLATER_SERVICE);
     }
@@ -73,66 +82,87 @@ public class CustomAdapter extends BaseAdapter{
                 switch (position)
                 {
                     case 0:
+                        displayInterstitial();
                         context.startActivity(new Intent(context,mapview.class));
                         break;
                     case 1:
+                        displayInterstitial();
                         context.startActivity(new Intent(context,Four_O_One.class));
                         break;
                     case 2:
+                        displayInterstitial();
                         context.startActivity(new Intent(context,dvp.class));
                         break;
                     case 3:
+                        displayInterstitial();
                         context.startActivity(new Intent(context,Gardiner.class));
                         break;
                     case 4:
+                        displayInterstitial();
                         context.startActivity(new Intent(context,QEW.class));
                         break;
                     case 5:
+                        displayInterstitial();
                         context.startActivity(new Intent(context,fourhundred.class));
                         break;
                     case 6:
+                        displayInterstitial();
                         context.startActivity(new Intent(context,Four_O_Three.class));
                         break;
                     case 7:
+                        displayInterstitial();
                         context.startActivity(new Intent(context,Four_two_seven.class));
                         break;
                     case 8:
+                        displayInterstitial();
                         context.startActivity(new Intent(context,Allen.class));
                         break;
                     case 9:
+                        displayInterstitial();
                         context.startActivity(new Intent(context,HwySeven.class));
                         break;
                     case 10:
+                        displayInterstitial();
                         context.startActivity(new Intent(context,steeles.class));
                         break;
                     case 11:
+                        displayInterstitial();
                         context.startActivity(new Intent(context,finch.class));
                         break;
                     case 12:
+                        displayInterstitial();
                         context.startActivity(new Intent(context,sheppard.class));
                         break;
                     case 13:
+                        displayInterstitial();
                         context.startActivity(new Intent(context,eglinton.class));
                         break;
                     case 14:
+                        displayInterstitial();
                         context.startActivity(new Intent(context,bloor.class));
                         break;
                     case 15:
+                        displayInterstitial();
                         context.startActivity(new Intent(context,college.class));
                         break;
                     case 16:
+                        displayInterstitial();
                         context.startActivity(new Intent(context,dundas.class));
                         break;
                     case 17:
+                        displayInterstitial();
                         context.startActivity(new Intent(context,richmond.class));
                         break;
                     case 18:
+                        displayInterstitial();
                         context.startActivity(new Intent(context,adelaide.class));
                         break;
                     case 19:
+                        displayInterstitial();
                         context.startActivity(new Intent(context,front.class));
                         break;
                     case 20:
+                        displayInterstitial();
                         context.startActivity(new Intent(context,lakeshore.class));
                         break;
                     case 21:
@@ -155,6 +185,20 @@ public class CustomAdapter extends BaseAdapter{
             }
         });
         return rowView;
+    }
+
+    public void displayInterstitial() {
+        // If Ads are loaded, show Interstitial else show nothing.
+        if (interstitialAd != null) {
+            if (interstitialAd.isLoaded()) {
+                interstitialAd.show();
+            }
+        }
+    }
+
+    private void requestNewInterstitial() {
+        AdRequest adRequest = new AdRequest.Builder().build();
+        interstitialAd.loadAd(adRequest);
     }
 
 }

@@ -23,14 +23,20 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.Toast;
 
+import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
+import com.google.android.gms.ads.InterstitialAd;
+import com.kobakei.ratethisapp.RateThisApp;
+
+import static java.lang.Thread.sleep;
 
 
 public class MainActivity extends ActionBarActivity  {
 
 
     public static int [] prgmImages={R.drawable.ic_video};
+    private InterstitialAd interstitial;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -52,10 +58,18 @@ public class MainActivity extends ActionBarActivity  {
         super.onPostCreate(savedInstanceState);
 
         isLocationPermissionGranted();
-        initializeAds();
+        //initializeAds();
 
         populateListView();
 
+        // Monitor launch times and interval from installation
+        RateThisApp.onStart(this);
+        // If the criteria is satisfied, "Rate this app" dialog will be shown
+
+        RateThisApp.Config config = new RateThisApp.Config(2,2);
+        config.setUrl("market://details?id=com.torontotraffic.app");
+        RateThisApp.init(config);
+        RateThisApp.showRateDialogIfNeeded(this);
     }
 
     public void initializeAds()
@@ -63,6 +77,20 @@ public class MainActivity extends ActionBarActivity  {
         AdView mAdView = (AdView) findViewById(R.id.adView);
         AdRequest adRequest = new AdRequest.Builder().build();
         mAdView.loadAd(adRequest);
+
+        // Prepare the Interstitial Ad
+        interstitial = new InterstitialAd(this);
+        // Insert the Ad Unit ID
+        interstitial.setAdUnitId(getString(R.string.admob_interstitial_id));
+
+        interstitial.loadAd(adRequest);
+        // Prepare an Interstitial Ad Listener
+//        interstitial.setAdListener(new AdListener() {
+//            public void onAdLoaded() {
+//                // Call displayInterstitial() function
+//                //displayInterstitial();
+//            }
+//        });
 
     }
 
@@ -73,7 +101,7 @@ public class MainActivity extends ActionBarActivity  {
         ArrayAdapter<String> streetAdapter = new ArrayAdapter<String>(this,R.layout.main_items, streetItems);
 
         ListView mainList = (ListView)findViewById(R.id.listViewMain);
-        mainList.setAdapter(new CustomAdapter(this,streetItems,prgmImages));
+        mainList.setAdapter(new CustomAdapter(this,streetItems,prgmImages, interstitial));
 
     }
 
@@ -171,4 +199,6 @@ public class MainActivity extends ActionBarActivity  {
                 .create()
                 .show();
     }
+
+
 }
