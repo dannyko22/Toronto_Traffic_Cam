@@ -4,7 +4,7 @@ import android.app.LocalActivityManager;
 import android.content.Intent;
 import android.graphics.Color;
 import android.location.Location;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.support.v4.app.Fragment;
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -36,7 +36,7 @@ import com.squareup.picasso.NetworkPolicy;
 import com.squareup.picasso.Picasso;
 
 
-public class lakeshore extends ActionBarActivity implements OnTabChangeListener, OnMapReadyCallback {
+public class lakeshore extends AppCompatActivity implements OnTabChangeListener, OnMapReadyCallback {
 
     private LatLng locationLatLng;
     private GoogleMap mMap;

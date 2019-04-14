@@ -1,7 +1,7 @@
 package com.torontotraffic.app;
 
 import android.graphics.Color;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.support.v4.app.Fragment;
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -23,7 +23,7 @@ import com.squareup.picasso.NetworkPolicy;
 import com.squareup.picasso.Picasso;
 
 
-public class dvp extends ActionBarActivity implements TabHost.OnTabChangeListener, OnMapReadyCallback {
+public class dvp extends AppCompatActivity implements TabHost.OnTabChangeListener, OnMapReadyCallback {
 
 
     private LatLng locationLatLng;

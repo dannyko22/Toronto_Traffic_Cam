@@ -9,7 +9,8 @@ import android.content.pm.PackageManager;
 import android.net.Uri;
 import android.os.Build;
 import android.support.v4.app.ActivityCompat;
-import android.support.v7.app.ActionBarActivity;
+
+import android.support.v7.app.AppCompatActivity;
 import android.support.v4.app.Fragment;
 import android.os.Bundle;
 import android.support.v7.app.AlertDialog;
@@ -32,7 +33,7 @@ import com.kobakei.ratethisapp.RateThisApp;
 import static java.lang.Thread.sleep;
 
 
-public class MainActivity extends ActionBarActivity  {
+public class MainActivity extends AppCompatActivity  {
 
 
     public static int [] prgmImages={R.drawable.ic_video};

@@ -2,7 +2,7 @@ package com.torontotraffic.app;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -21,7 +21,7 @@ import com.squareup.picasso.NetworkPolicy;
 import com.squareup.picasso.Picasso;
 
 
-public class Four_two_seven extends ActionBarActivity implements TabHost.OnTabChangeListener, OnMapReadyCallback {
+public class Four_two_seven extends AppCompatActivity implements TabHost.OnTabChangeListener, OnMapReadyCallback {
 
 
     private LatLng locationLatLng;

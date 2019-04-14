@@ -1,6 +1,6 @@
 package com.torontotraffic.app;
 
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.support.v7.app.ActionBar;
 import android.support.v4.app.Fragment;
 import android.os.Bundle;
@@ -18,7 +18,7 @@ import com.google.android.gms.maps.MapFragment;
 import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.model.LatLng;
 
-public class mapview extends ActionBarActivity implements OnMapReadyCallback {
+public class mapview extends AppCompatActivity implements OnMapReadyCallback {
 
 
     private LatLng locationLatLng;
